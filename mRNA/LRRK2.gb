@@ -1,0 +1,817 @@
+LOCUS       NM_198578               9239 bp    mRNA    linear   PRI 03-OCT-2017
+DEFINITION  Homo sapiens leucine rich repeat kinase 2 (LRRK2), mRNA.
+ACCESSION   NM_198578 XM_058513 XM_930820 XM_930832 XM_936405 XM_942804
+VERSION     NM_198578.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9239)
+  AUTHORS   Obergasteiger J, Uberbacher C, Pramstaller PP, Hicks AA, Corti C
+            and Volta M.
+  TITLE     CADPS2 gene expression is oppositely regulated by LRRK2 and
+            alpha-synuclein
+  JOURNAL   Biochem. Biophys. Res. Commun. 490 (3), 876-881 (2017)
+   PUBMED   28647363
+  REMARK    GeneRIF: These results indicate that LRRK2 and alpha-synuclein
+            participate in the dysregulation of CADPS2 by altering
+            transcription and support the hypothesis that synaptic
+            dysfunctions, through different mechanisms, might contribute to the
+            neuronal defects of diseases such as Parkinson's disease.
+REFERENCE   2  (bases 1 to 9239)
+  AUTHORS   Sierra M, Martinez-Rodriguez I, Sanchez-Juan P, Gonzalez-Aramburu
+            I, Jimenez-Alonso M, Sanchez-Rodriguez A, Berciano J, Banzo I and
+            Infante J.
+  TITLE     Prospective clinical and DaT-SPECT imaging in premotor LRRK2
+            G2019S-associated Parkinson disease
+  JOURNAL   Neurology 89 (5), 439-444 (2017)
+   PUBMED   28679601
+  REMARK    GeneRIF: Semiquantitative DaT-SPECT could be used to predict early
+            conversion to Parkinson disease (PD) in asymptomatic carriers of
+            the LRRK2 G2019S mutation. Rate of conversion to PD at 4 years in
+            this cohort aged approximately 64 years was 12%. The slope of DaT
+            binding decline on DaT-SPECT imaging seems to be similar across
+            different stages of the premotor period.
+REFERENCE   3  (bases 1 to 9239)
+  AUTHORS   Ben El Haj R, Salmi A, Regragui W, Moussa A, Bouslam N, Tibar H,
+            Benomar A, Yahyaoui M and Bouhouche A.
+  TITLE     Evidence for prehistoric origins of the G2019S mutation in the
+            North African Berber population
+  JOURNAL   PLoS ONE 12 (7), E0181335 (2017)
+   PUBMED   28723952
+  REMARK    GeneRIF: we conclude that LRRK2 G2019S mutation most likely
+            originated in a Berber founder who lived at least 5000 years ago.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 9239)
+  AUTHORS   Rassu M, Del Giudice MG, Sanna S, Taymans JM, Morari M, Brugnoli A,
+            Frassineti M, Masala A, Esposito S, Galioto M, Valle C, Carri MT,
+            Biosa A, Greggio E, Crosio C and Iaccarino C.
+  TITLE     Role of LRRK2 in the regulation of dopamine receptor trafficking
+  JOURNAL   PLoS ONE 12 (6), E0179082 (2017)
+   PUBMED   28582422
+  REMARK    GeneRIF: The Parkinson's disease-associated LRRK2 mutant G2019S
+            impairs DRD1 internalization, leading to an alteration in signal
+            transduction. The mutant forms of LRRK2 also affect receptor
+            turnover by decreasing the rate of DRD2 trafficking from the Golgi
+            complex to the cell membrane.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 9239)
+  AUTHORS   Paisan-Ruiz C, Jain S, Evans EW, Gilks WP, Simon J, van der Brug M,
+            Lopez de Munain A, Aparicio S, Gil AM, Khan N, Johnson J, Martinez
+            JR, Nicholl D, Carrera IM, Pena AS, de Silva R, Lees A, Marti-Masso
+            JF, Perez-Tur J, Wood NW and Singleton AB.
+  TITLE     Cloning of the gene containing mutations that cause PARK8-linked
+            Parkinson's disease
+  JOURNAL   Neuron 44 (4), 595-600 (2004)
+   PUBMED   15541308
+  REMARK    GeneRIF: missense mutations segregating with PARK8-linked
+            Parkinson's disease
+REFERENCE   6  (bases 1 to 9239)
+  AUTHORS   Zimprich A, Muller-Myhsok B, Farrer M, Leitner P, Sharma M, Hulihan
+            M, Lockhart P, Strongosky A, Kachergus J, Calne DB, Stoessl J,
+            Uitti RJ, Pfeiffer RF, Trenkwalder C, Homann N, Ott E, Wenzel K,
+            Asmus F, Hardy J, Wszolek Z and Gasser T.
+  TITLE     The PARK8 locus in autosomal dominant parkinsonism: confirmation of
+            linkage and further delineation of the disease-containing interval
+  JOURNAL   Am. J. Hum. Genet. 74 (1), 11-19 (2004)
+   PUBMED   14691730
+  REMARK    GeneRIF: PARK8 locus is responsible for the disease in a subset of
+            families of white ancestry with autosomal dominant parkinsonism
+            Erratum:[Am J Hum Genet. 2004 Sep;75(3):534]
+REFERENCE   7  (bases 1 to 9239)
+  AUTHORS   Chen J, Sun M, Lee S, Zhou G, Rowley JD and Wang SM.
+  TITLE     Identifying novel transcripts and novel genes in the human genome
+            by using novel SAGE tags
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (19), 12257-12262 (2002)
+   PUBMED   12213963
+REFERENCE   8  (bases 1 to 9239)
+  AUTHORS   Funayama M, Hasegawa K, Kowa H, Saito M, Tsuji S and Obata F.
+  TITLE     A new locus for Parkinson's disease (PARK8) maps to chromosome
+            12p11.2-q13.1
+  JOURNAL   Ann. Neurol. 51 (3), 296-301 (2002)
+   PUBMED   11891824
+  REMARK    GeneRIF: A new locus for Parkinson's disease (PARK8) maps to
+            chromosome 12p11.2-q13.1
+REFERENCE   9  (bases 1 to 9239)
+  AUTHORS   Farlow,J., Pankratz,N.D., Wojcieszek,J. and Foroud,T.
+  TITLE     Parkinson Disease Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301402
+REFERENCE   10 (bases 1 to 9239)
+  AUTHORS   Trinh,J., Farrer,M., Ross,O.A. and Guella,I.
+  TITLE     LRRK2-Related Parkinson Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301387
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CN294292.1, AY792511.1,
+            BM285390.1, BC117180.1, AK122640.1, AK026776.1 and AL832453.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Apr 2, 2008 this sequence version replaced gi:83722281.
+            
+            Summary: This gene is a member of the leucine-rich repeat kinase
+            family and encodes a protein with an ankryin repeat region, a
+            leucine-rich repeat (LRR) domain, a kinase domain, a DFG-like
+            motif, a RAS domain, a GTPase domain, a MLK-like domain, and a WD40
+            domain. The protein is present largely in the cytoplasm but also
+            associates with the mitochondrial outer membrane. Mutations in this
+            gene have been associated with Parkinson disease-8. [provided by
+            RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660803.76959.1,
+                                           SRR1803616.135112.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-121               CN294292.1         1-121
+            122-577             AY792511.1         1-456
+            578-692             BM285390.1         347-461
+            693-4992            BC117180.1         630-4929
+            4993-5577           AY792511.1         4872-5456
+            5578-7131           AK122640.1         486-2039
+            7132-7705           AY792511.1         7011-7584
+            7706-8640           AK026776.1         319-1253
+            8641-8683           AL832453.2         5814-5856
+            8684-8891           AK026776.1         1296-1503
+            8892-9239           AL832453.2         6065-6412
+FEATURES             Location/Qualifiers
+     source          1..9239
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q12"
+     gene            1..9239
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /note="leucine rich repeat kinase 2"
+                     /db_xref="GeneID:120892"
+                     /db_xref="HGNC:HGNC:18618"
+                     /db_xref="MIM:609007"
+     exon            1..272
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    23..25
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /note="upstream in-frame stop codon"
+     CDS             122..7705
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /EC_number="2.7.11.1"
+                     /note="augmented in rheumatoid arthritis 17"
+                     /codon_start=1
+                     /product="leucine-rich repeat serine/threonine-protein
+                     kinase 2"
+                     /protein_id="NP_940980.3"
+                     /db_xref="CCDS:CCDS31774.1"
+                     /db_xref="GeneID:120892"
+                     /db_xref="HGNC:HGNC:18618"
+                     /db_xref="MIM:609007"
+                     /translation="MASGSCQGCEEDEETLKKLIVRLNNVQEGKQIETLVQILEDLLV
+                     FTYSEHASKLFQGKNIHVPLLIVLDSYMRVASVQQVGWSLLCKLIEVCPGTMQSLMGP
+                     QDVGNDWEVLGVHQLILKMLTVHNASVNLSVIGLKTLDLLLTSGKITLLILDEESDIF
+                     MLIFDAMHSFPANDEVQKLGCKALHVLFERVSEEQLTEFVENKDYMILLSALTNFKDE
+                     EEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVEAMKAFPMSERIQEVSCCLLHR
+                     LTLGNFFNILVLNEVHEFVVKAVQQYPENAALQISALSCLALLTETIFLNQDLEEKNE
+                     NQENDDEGEEDKLFWLEACYKALTWHRKNKHVQEAACWALNNLLMYQNSLHEKIGDED
+                     GHFPAHREVMLSMLMHSSSKEVFQASANALSTLLEQNVNFRKILLSKGIHLNVLELMQ
+                     KHIHSPEVAESGCKMLNHLFEGSNTSLDIMAAVVPKILTVMKRHETSLPVQLEALRAI
+                     LHFIVPGMPEESREDTEFHHKLNMVKKQCFKNDIHKLVLAALNRFIGNPGIQKCGLKV
+                     ISSIVHFPDALEMLSLEGAMDSVLHTLQMYPDDQEIQCLGLSLIGYLITKKNVFIGTG
+                     HLLAKILVSSLYRFKDVAEIQTKGFQTILAILKLSASFSKLLVHHSFDLVIFHQMSSN
+                     IMEQKDQQFLNLCCKCFAKVAMDDYLKNVMLERACDQNNSIMVECLLLLGADANQAKE
+                     GSSLICQVCEKESSPKLVELLLNSGSREQDVRKALTISIGKGDSQIISLLLRRLALDV
+                     ANNSICLGGFCIGKVEPSWLGPLFPDKTSNLRKQTNIASTLARMVIRYQMKSAVEEGT
+                     ASGSDGNFSEDVLSKFDEWTFIPDSSMDSVFAQSDDLDSEGSEGSFLVKKKSNSISVG
+                     EFYRDAVLQRCSPNLQRHSNSLGPIFDHEDLLKRKRKILSSDDSLRSSKLQSHMRHSD
+                     SISSLASEREYITSLDLSANELRDIDALSQKCCISVHLEHLEKLELHQNALTSFPQQL
+                     CETLKSLTHLDLHSNKFTSFPSYLLKMSCIANLDVSRNDIGPSVVLDPTVKCPTLKQF
+                     NLSYNQLSFVPENLTDVVEKLEQLILEGNKISGICSPLRLKELKILNLSKNHISSLSE
+                     NFLEACPKVESFSARMNFLAAMPFLPPSMTILKLSQNKFSCIPEAILNLPHLRSLDMS
+                     SNDIQYLPGPAHWKSLNLRELLFSHNQISILDLSEKAYLWSRVEKLHLSHNKLKEIPP
+                     EIGCLENLTSLDVSYNLELRSFPNEMGKLSKIWDLPLDELHLNFDFKHIGCKAKDIIR
+                     FLQQRLKKAVPYNRMKLMIVGNTGSGKTTLLQQLMKTKKSDLGMQSATVGIDVKDWPI
+                     QIRDKRKRDLVLNVWDFAGREEFYSTHPHFMTQRALYLAVYDLSKGQAEVDAMKPWLF
+                     NIKARASSSPVILVGTHLDVSDEKQRKACMSKITKELLNKRGFPAIRDYHFVNATEES
+                     DALAKLRKTIINESLNFKIRDQLVVGQLIPDCYVELEKIILSERKNVPIEFPVIDRKR
+                     LLQLVRENQLQLDENELPHAVHFLNESGVLLHFQDPALQLSDLYFVEPKWLCKIMAQI
+                     LTVKVEGCPKHPKGIISRRDVEKFLSKKRKFPKNYMSQYFKLLEKFQIALPIGEEYLL
+                     VPSSLSDHRPVIELPHCENSEIIIRLYEMPYFPMGFWSRLINRLLEISPYMLSGRERA
+                     LRPNRMYWRQGIYLNWSPEAYCLVGSEVLDNHPESFLKITVPSCRKGCILLGQVVDHI
+                     DSLMEEWFPGLLEIDICGEGETLLKKWALYSFNDGEEHQKILLDDLMKKAEEGDLLVN
+                     PDQPRLTIPISQIAPDLILADLPRNIMLNNDELEFEQAPEFLLGDGSFGSVYRAAYEG
+                     EEVAVKIFNKHTSLRLLRQELVVLCHLHHPSLISLLAAGIRPRMLVMELASKGSLDRL
+                     LQQDKASLTRTLQHRIALHVADGLRYLHSAMIIYRDLKPHNVLLFTLYPNAAIIAKIA
+                     DYGIAQYCCRMGIKTSEGTPGFRAPEVARGNVIYNQQADVYSFGLLLYDILTTGGRIV
+                     EGLKFPNEFDELEIQGKLPDPVKEYGCAPWPMVEKLIKQCLKENPQERPTSAQVFDIL
+                     NSAELVCLTRRILLPKNVIVECMVATHHNSRNASIWLGCGHTDRGQLSFLDLNTEGYT
+                     SEEVADSRILCLALVHLPVEKESWIVSGTQSGTLLVINTEDGKKRHTLEKMTDSVTCL
+                     YCNSFSKQSKQKNFLLVGTADGKLAIFEDKTVKLKGAAPLKILNIGNVSTPLMCLSES
+                     TNSTERNVMWGGCGTKIFSFSNDFTIQKLIETRTSQLFSYAAFSDSNIITVVVDTALY
+                     IAKQNSPVVEVWDKKTEKLCGLIDCVHFLREVMVKENKESKHKMSYSGRVKTLCLQKN
+                     TALWIGTGGGHILLLDLSTRRLIRVIYNFCNSVRVMMTAQLGSLKNVMLVLGYNRKNT
+                     EGTQKQKEIQSCLTVWDINLPHEVQNLEKHIEVRKELAEKMRRTSVE"
+     misc_feature    2924..2926
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q5S006};
+                     propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     phosphorylation site"
+     misc_feature    3068..3133
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 1"
+     misc_feature    3155..3220
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 2"
+     misc_feature    3227..3292
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 3"
+     misc_feature    3296..3361
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 4"
+     misc_feature    3371..3436
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 5"
+     misc_feature    3443..3508
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 6"
+     misc_feature    3509..3571
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 7"
+     misc_feature    3641..3709
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 8"
+     misc_feature    3710..3775
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 9"
+     misc_feature    3782..3844
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 10"
+     misc_feature    3857..3922
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 11"
+     misc_feature    3926..3994
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: LRR 12"
+     misc_feature    6536..6670
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 1"
+     misc_feature    6683..6805
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 2"
+     misc_feature    6818..6949
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 3"
+     misc_feature    6962..7102
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 4"
+     misc_feature    7118..7252
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 5"
+     misc_feature    7325..7435
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 6"
+     misc_feature    7448..7612
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5S007.2);
+                     Region: WD 7"
+     exon            273..358
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            359..468
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            469..557
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            558..692
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            693..827
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            828..959
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            960..1079
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1080..1222
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1223..1302
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1303..1409
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1410..1539
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1540..1664
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1665..1777
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1778..1922
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1782..2016
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="ECD18401"
+                     /db_xref="UniSTS:299412"
+     exon            1923..2062
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2063..2191
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2192..2362
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2362..2588
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25577"
+                     /db_xref="UniSTS:350377"
+     exon            2363..2621
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2622..2810
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2811..2929
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2930..2999
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3000..3217
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3218..3468
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3469..3617
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3618..3711
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3619..3764
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="stSG619928"
+                     /db_xref="UniSTS:453869"
+     exon            3712..3898
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3899..4080
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4081..4310
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4311..4438
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4439..4657
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4658..4859
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4860..4948
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4949..5136
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5137..5291
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5292..5438
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5439..5630
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5631..5777
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5778..5878
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5879..6069
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6070..6230
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6231..6401
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6402..6502
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6503..6697
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6698..6891
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6892..6964
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6965..7149
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7150..7302
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7303..7511
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7512..7583
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7584..9225
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             7590..7831
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="ECD21714"
+                     /db_xref="UniSTS:302708"
+     STS             7803..8068
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25253"
+                     /db_xref="UniSTS:350053"
+     STS             7811..8899
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="stSG619978"
+                     /db_xref="UniSTS:453918"
+     STS             8005..8085
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="RH93615"
+                     /db_xref="UniSTS:85092"
+     STS             8062..8177
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="SHGC-60144"
+                     /db_xref="UniSTS:71729"
+     STS             8063..8311
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25252"
+                     /db_xref="UniSTS:350052"
+     STS             8071..8765
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="ECD06952"
+                     /db_xref="UniSTS:288010"
+     STS             8129..8235
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="RH68116"
+                     /db_xref="UniSTS:29271"
+     regulatory      8218..8223
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+     polyA_site      8243
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+     STS             8288..8512
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25251"
+                     /db_xref="UniSTS:350051"
+     STS             8579..8817
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25250"
+                     /db_xref="UniSTS:350050"
+     STS             8702..8886
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="G64352"
+                     /db_xref="UniSTS:163736"
+     STS             8805..9029
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+                     /standard_name="REN25249"
+                     /db_xref="UniSTS:350049"
+     regulatory      9200..9205
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+     polyA_site      9225
+                     /gene="LRRK2"
+                     /gene_synonym="AURA17; DARDARIN; PARK8; RIPK7; ROCO2"
+ORIGIN      
+        1 gcgctggctg cgggcggtga gctgagctcg cccccgggga gctgtggccg gcgcccctgc
+       61 cggttccctg agcagcggac gttcatgctg ggagggcggc gggttggaag caggtgccac
+      121 catggctagt ggcagctgtc aggggtgcga agaggacgag gaaactctga agaagttgat
+      181 agtcaggctg aacaatgtcc aggaaggaaa acagatagaa acgctggtcc aaatcctgga
+      241 ggatctgctg gtgttcacgt actccgagca cgcctccaag ttatttcaag gcaaaaatat
+      301 ccatgtgcct ctgttgatcg tcttggactc ctatatgaga gtcgcgagtg tgcagcaggt
+      361 gggttggtca cttctgtgca aattaataga agtctgtcca ggtacaatgc aaagcttaat
+      421 gggaccccag gatgttggaa atgattggga agtccttggt gttcaccaat tgattcttaa
+      481 aatgctaaca gttcataatg ccagtgtaaa cttgtcagtg attggactga agaccttaga
+      541 tctcctccta acttcaggta aaatcacctt gctgatattg gatgaagaaa gtgatatttt
+      601 catgttaatt tttgatgcca tgcactcatt tccagccaat gatgaagtcc agaaacttgg
+      661 atgcaaagct ttacatgtgc tgtttgagag agtctcagag gagcaactga ctgaatttgt
+      721 tgagaacaaa gattatatga tattgttaag tgcgttaaca aattttaaag atgaagagga
+      781 aattgtgctt catgtgctgc attgtttaca ttccctagcg attccttgca ataatgtgga
+      841 agtcctcatg agtggcaatg tcaggtgtta taatattgtg gtggaagcta tgaaagcatt
+      901 ccctatgagt gaaagaattc aagaagtgag ttgctgtttg ctccataggc ttacattagg
+      961 taattttttc aatatcctgg tattaaacga agtccatgag tttgtggtga aagctgtgca
+     1021 gcagtaccca gagaatgcag cattgcagat ctcagcgctc agctgtttgg ccctcctcac
+     1081 tgagactatt ttcttaaatc aagatttaga ggaaaagaat gagaatcaag agaatgatga
+     1141 tgagggggaa gaagataaat tgttttggct ggaagcctgt tacaaagcat taacgtggca
+     1201 tagaaagaac aagcacgtgc aggaggccgc atgctgggca ctaaataatc tccttatgta
+     1261 ccaaaacagt ttacatgaga agattggaga tgaagatggc catttcccag ctcataggga
+     1321 agtgatgctc tccatgctga tgcattcttc atcaaaggaa gttttccagg catctgcgaa
+     1381 tgcattgtca actctcttag aacaaaatgt taatttcaga aaaatactgt tatcaaaagg
+     1441 aatacacctg aatgttttgg agttaatgca gaagcatata cattctcctg aagtggctga
+     1501 aagtggctgt aaaatgctaa atcatctttt tgaaggaagc aacacttccc tggatataat
+     1561 ggcagcagtg gtccccaaaa tactaacagt tatgaaacgt catgagacat cattaccagt
+     1621 gcagctggag gcgcttcgag ctattttaca ttttatagtg cctggcatgc cagaagaatc
+     1681 cagggaggat acagaatttc atcataagct aaatatggtt aaaaaacagt gtttcaagaa
+     1741 tgatattcac aaactggtcc tagcagcttt gaacaggttc attggaaatc ctgggattca
+     1801 gaaatgtgga ttaaaagtaa tttcttctat tgtacatttt cctgatgcat tagagatgtt
+     1861 atccctggaa ggtgctatgg attcagtgct tcacacactg cagatgtatc cagatgacca
+     1921 agaaattcag tgtctgggtt taagtcttat aggatacttg attacaaaga agaatgtgtt
+     1981 cataggaact ggacatctgc tggcaaaaat tctggtttcc agcttatacc gatttaagga
+     2041 tgttgctgaa atacagacta aaggatttca gacaatctta gcaatcctca aattgtcagc
+     2101 atctttttct aagctgctgg tgcatcattc atttgactta gtaatattcc atcaaatgtc
+     2161 ttccaatatc atggaacaaa aggatcaaca gtttctaaac ctctgttgca agtgttttgc
+     2221 aaaagtagct atggatgatt acttaaaaaa tgtgatgcta gagagagcgt gtgatcagaa
+     2281 taacagcatc atggttgaat gcttgcttct attgggagca gatgccaatc aagcaaagga
+     2341 gggatcttct ttaatttgtc aggtatgtga gaaagagagc agtcccaaat tggtggaact
+     2401 cttactgaat agtggatctc gtgaacaaga tgtacgaaaa gcgttgacga taagcattgg
+     2461 gaaaggtgac agccagatca tcagcttgct cttaaggagg ctggccctgg atgtggccaa
+     2521 caatagcatt tgccttggag gattttgtat aggaaaagtt gaaccttctt ggcttggtcc
+     2581 tttatttcca gataagactt ctaatttaag gaaacaaaca aatatagcat ctacactagc
+     2641 aagaatggtg atcagatatc agatgaaaag tgctgtggaa gaaggaacag cctcaggcag
+     2701 cgatggaaat ttttctgaag atgtgctgtc taaatttgat gaatggacct ttattcctga
+     2761 ctcttctatg gacagtgtgt ttgctcaaag tgatgacctg gatagtgaag gaagtgaagg
+     2821 ctcatttctt gtgaaaaaga aatctaattc aattagtgta ggagaatttt accgagatgc
+     2881 cgtattacag cgttgctcac caaatttgca aagacattcc aattccttgg ggcccatttt
+     2941 tgatcatgaa gatttactga agcgaaaaag aaaaatatta tcttcagatg attcactcag
+     3001 gtcatcaaaa cttcaatccc atatgaggca ttcagacagc atttcttctc tggcttctga
+     3061 gagagaatat attacatcac tagacctttc agcaaatgaa ctaagagata ttgatgccct
+     3121 aagccagaaa tgctgtataa gtgttcattt ggagcatctt gaaaagctgg agcttcacca
+     3181 gaatgcactc acgagctttc cacaacagct atgtgaaact ctgaagagtt tgacacattt
+     3241 ggacttgcac agtaataaat ttacatcatt tccttcttat ttgttgaaaa tgagttgtat
+     3301 tgctaatctt gatgtctctc gaaatgacat tggaccctca gtggttttag atcctacagt
+     3361 gaaatgtcca actctgaaac agtttaacct gtcatataac cagctgtctt ttgtacctga
+     3421 gaacctcact gatgtggtag agaaactgga gcagctcatt ttagaaggaa ataaaatatc
+     3481 agggatatgc tcccccttga gactgaagga actgaagatt ttaaacctta gtaagaacca
+     3541 catttcatcc ctatcagaga actttcttga ggcttgtcct aaagtggaga gtttcagtgc
+     3601 cagaatgaat tttcttgctg ctatgccttt cttgcctcct tctatgacaa tcctaaaatt
+     3661 atctcagaac aaattttcct gtattccaga agcaatttta aatcttccac acttgcggtc
+     3721 tttagatatg agcagcaatg atattcagta cctaccaggt cccgcacact ggaaatcttt
+     3781 gaacttaagg gaactcttat ttagccataa tcagatcagc atcttggact tgagtgaaaa
+     3841 agcatattta tggtctagag tagagaaact gcatctttct cacaataaac tgaaagagat
+     3901 tcctcctgag attggctgtc ttgaaaatct gacatctctg gatgtcagtt acaacttgga
+     3961 actaagatcc tttcccaatg aaatggggaa attaagcaaa atatgggatc ttcctttgga
+     4021 tgaactgcat cttaactttg attttaaaca tataggatgt aaagccaaag acatcataag
+     4081 gtttcttcaa cagcgattaa aaaaggctgt gccttataac cgaatgaaac ttatgattgt
+     4141 gggaaatact gggagtggta aaaccacctt attgcagcaa ttaatgaaaa ccaagaaatc
+     4201 agatcttgga atgcaaagtg ccacagttgg catagatgtg aaagactggc ctatccaaat
+     4261 aagagacaaa agaaagagag atctcgtcct aaatgtgtgg gattttgcag gtcgtgagga
+     4321 attctatagt actcatcccc attttatgac gcagcgagca ttgtaccttg ctgtctatga
+     4381 cctcagcaag ggacaggctg aagttgatgc catgaagcct tggctcttca atataaaggc
+     4441 tcgcgcttct tcttcccctg tgattctcgt tggcacacat ttggatgttt ctgatgagaa
+     4501 gcaacgcaaa gcctgcatga gtaaaatcac caaggaactc ctgaataagc gagggttccc
+     4561 tgccatacga gattaccact ttgtgaatgc caccgaggaa tctgatgctt tggcaaaact
+     4621 tcggaaaacc atcataaacg agagccttaa tttcaagatc cgagatcagc ttgttgttgg
+     4681 acagctgatt ccagactgct atgtagaact tgaaaaaatc attttatcgg agcgtaaaaa
+     4741 tgtgccaatt gaatttcccg taattgaccg gaaacgatta ttacaactag tgagagaaaa
+     4801 tcagctgcag ttagatgaaa atgagcttcc tcacgcagtt cactttctaa atgaatcagg
+     4861 agtccttctt cattttcaag acccagcact gcagttaagt gacttgtact ttgtggaacc
+     4921 caagtggctt tgtaaaatca tggcacagat tttgacagtg aaagtggaag gttgtccaaa
+     4981 acaccctaag ggcattattt cgcgtagaga tgtggaaaaa tttctttcaa aaaaaaggaa
+     5041 atttccaaag aactacatgt cacagtattt taagctccta gaaaaattcc agattgcttt
+     5101 gccaatagga gaagaatatt tgctggttcc aagcagtttg tctgaccaca ggcctgtgat
+     5161 agagcttccc cattgtgaga actctgaaat tatcatccga ctatatgaaa tgccttattt
+     5221 tccaatggga ttttggtcaa gattaatcaa tcgattactt gagatttcac cttacatgct
+     5281 ttcagggaga gaacgagcac ttcgcccaaa cagaatgtat tggcgacaag gcatttactt
+     5341 aaattggtct cctgaagctt attgtctggt aggatctgaa gtcttagaca atcatccaga
+     5401 gagtttctta aaaattacag ttccttcttg tagaaaaggc tgtattcttt tgggccaagt
+     5461 tgtggaccac attgattctc tcatggaaga atggtttcct gggttgctgg agattgatat
+     5521 ttgtggtgaa ggagaaactc tgttgaagaa atgggcatta tatagtttta atgatggtga
+     5581 agaacatcaa aaaatcttac ttgatgactt gatgaagaaa gcagaggaag gagatctctt
+     5641 agtaaatcca gatcaaccaa ggctcaccat tccaatatct cagattgccc ctgacttgat
+     5701 tttggctgac ctgcctagaa atattatgtt gaataatgat gagttggaat ttgaacaagc
+     5761 tccagagttt ctcctaggtg atggcagttt tggatcagtt taccgagcag cctatgaagg
+     5821 agaagaagtg gctgtgaaga tttttaataa acatacatca ctcaggctgt taagacaaga
+     5881 gcttgtggtg ctttgccacc tccaccaccc cagtttgata tctttgctgg cagctgggat
+     5941 tcgtccccgg atgttggtga tggagttagc ctccaagggt tccttggatc gcctgcttca
+     6001 gcaggacaaa gccagcctca ctagaaccct acagcacagg attgcactcc acgtagctga
+     6061 tggtttgaga tacctccact cagccatgat tatataccga gacctgaaac cccacaatgt
+     6121 gctgcttttc acactgtatc ccaatgctgc catcattgca aagattgctg actacggcat
+     6181 tgctcagtac tgctgtagaa tggggataaa aacatcagag ggcacaccag ggtttcgtgc
+     6241 acctgaagtt gccagaggaa atgtcattta taaccaacag gctgatgttt attcatttgg
+     6301 tttactactc tatgacattt tgacaactgg aggtagaata gtagagggtt tgaagtttcc
+     6361 aaatgagttt gatgaattag aaatacaagg aaaattacct gatccagtta aagaatatgg
+     6421 ttgtgcccca tggcctatgg ttgagaaatt aattaaacag tgtttgaaag aaaatcctca
+     6481 agaaaggcct acttctgccc aggtctttga cattttgaat tcagctgaat tagtctgtct
+     6541 gacgagacgc attttattac ctaaaaacgt aattgttgaa tgcatggttg ctacacatca
+     6601 caacagcagg aatgcaagca tttggctggg ctgtgggcac accgacagag gacagctctc
+     6661 atttcttgac ttaaatactg aaggatacac ttctgaggaa gttgctgata gtagaatatt
+     6721 gtgcttagcc ttggtgcatc ttcctgttga aaaggaaagc tggattgtgt ctgggacaca
+     6781 gtctggtact ctcctggtca tcaataccga agatgggaaa aagagacata ccctagaaaa
+     6841 gatgactgat tctgtcactt gtttgtattg caattccttt tccaagcaaa gcaaacaaaa
+     6901 aaattttctt ttggttggaa ccgctgatgg caagttagca atttttgaag ataagactgt
+     6961 taagcttaaa ggagctgctc ctttgaagat actaaatata ggaaatgtca gtactccatt
+     7021 gatgtgtttg agtgaatcca caaattcaac ggaaagaaat gtaatgtggg gaggatgtgg
+     7081 cacaaagatt ttctcctttt ctaatgattt caccattcag aaactcattg agacaagaac
+     7141 aagccaactg ttttcttatg cagctttcag tgattccaac atcataacag tggtggtaga
+     7201 cactgctctc tatattgcta agcaaaatag ccctgttgtg gaagtgtggg ataagaaaac
+     7261 tgaaaaactc tgtggactaa tagactgcgt gcacttttta agggaggtaa tggtaaaaga
+     7321 aaacaaggaa tcaaaacaca aaatgtctta ttctgggaga gtgaaaaccc tctgccttca
+     7381 gaagaacact gctctttgga taggaactgg aggaggccat attttactcc tggatctttc
+     7441 aactcgtcga cttatacgtg taatttacaa cttttgtaat tcggtcagag tcatgatgac
+     7501 agcacagcta ggaagcctta aaaatgtcat gctggtattg ggctacaacc ggaaaaatac
+     7561 tgaaggtaca caaaagcaga aagagataca atcttgcttg accgtttggg acatcaatct
+     7621 tccacatgaa gtgcaaaatt tagaaaaaca cattgaagtg agaaaagaat tagctgaaaa
+     7681 aatgagacga acatctgttg agtaagagag aaataggaat tgtctttgga taggaaaatt
+     7741 attctctcct cttgtaaata tttattttaa aaatgttcac atggaaaggg tactcacatt
+     7801 ttttgaaata gctcgtgtgt atgaaggaat gttattattt ttaatttaaa tatatgtaaa
+     7861 aatacttacc agtaaatgtg tattttaaag aactatttaa aacacaatgt tatatttctt
+     7921 ataaatacca gttactttcg ttcattaatt aatgaaaata aatctgtgaa gtacctaatt
+     7981 taagtactca tactaaaatt tataaggccg ataatttttt gttttcttgt ctgtaatgga
+     8041 ggtaaacttt attttaaatt ctgtgcttaa gacaggacta ttgcttgtcg atttttctag
+     8101 aaatctgcac ggtataatga aaatattaag acagtttccc atgtaatgta ttccttctta
+     8161 gattgcatcg aaatgcacta tcatatatgc ttgtaaatat tcaaatgaat ttgcactaat
+     8221 aaagtccttt gttggtatgt gaattctctt tgttgctgtt gcaaacagtg catcttacac
+     8281 aacttcactc aattcaaaag aaaactccat taaaagtact aatgaaaaaa catgacatac
+     8341 tgtcaaagtc ctcatatcta ggaaagacac agaaactctc tttgtcacag aaactctctg
+     8401 tgtctttcct agacataata gagttgtttt tcaactctat gtttgaatgt ggataccctg
+     8461 aattttgtat aattagtgta aatacagtgt tcagtccttc aagtgatatt tttatttttt
+     8521 tattcatacc actagctact tgttttctaa tctgcttcat tctaatgctt atattcatct
+     8581 tttccctaaa tttgtgatgc tgcagatcct acatcattca gatagaaacc tttttttttt
+     8641 tcagaattat agaattccac agctcctacc aagaccatga ggataaatat ctaacacttt
+     8701 tcagttgctg aaggagaaag gagctttagt tatgatggat aaaaatatct gccaccctag
+     8761 gcttccaaat tatacttaaa ttgtttacat agcttaccac aataggagta tcagggccaa
+     8821 atacctatgt aataatttga ggtcatttct gctttaggaa aagtactttc ggtaaattct
+     8881 ttggccctga ccagtattca ttatttcaga taattccctg tgataggaca actagtacat
+     8941 ttaatattct cagaacttat ggcattttac tatgtgaaaa ctttaaattt atttatatta
+     9001 agggtaatca aattcttaaa gatgaaagat tttctgtatt ttaaaggaag ctatgcttta
+     9061 acttgttatg taattaacaa aaaaatcata tataatagag ctctttgttc cagtgttatc
+     9121 tctttcattg ttactttgta tttgcaattt tttttaccaa agacaaatta aaaaaatgaa
+     9181 taccatattt aaatggaata ataaaggttt tttaaaaact ttaaaaaaaa aaaaaaaaa
+//
+

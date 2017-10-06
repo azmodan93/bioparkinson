@@ -1,0 +1,633 @@
+LOCUS       NM_001103146            7819 bp    mRNA    linear   PRI 02-OCT-2017
+DEFINITION  Homo sapiens GRB10 interacting GYF protein 2 (GIGYF2), transcript
+            variant 3, mRNA.
+ACCESSION   NM_001103146
+VERSION     NM_001103146.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7819)
+  AUTHORS   Kryszke MH, Adjeriou B, Liang F, Chen H and Dautry F.
+  TITLE     Post-transcriptional gene silencing activity of human GIGYF2
+  JOURNAL   Biochem. Biophys. Res. Commun. 475 (3), 289-294 (2016)
+   PUBMED   27157137
+  REMARK    GeneRIF: Full-length GIGYF2 coimmunoprecipitates with AGO2 in human
+            cells, and upon tethering to a reporter mRNA, GIGYF2 exhibits
+            strong, dose-dependent silencing activity, involving both mRNA
+            destabilization and translational repression.
+REFERENCE   2  (bases 1 to 7819)
+  AUTHORS   Zhang Y, Sun QY, Yu RH, Guo JF, Tang BS and Yan XX.
+  TITLE     The contribution of GIGYF2 to Parkinson's disease: a meta-analysis
+  JOURNAL   Neurol. Sci. 36 (11), 2073-2079 (2015)
+   PUBMED   26152800
+  REMARK    GeneRIF: Results suggest that the N56S and N457T of GIGYF2 are risk
+            factors for Parkinson's disease in Caucasians, but not in Asians
+REFERENCE   3  (bases 1 to 7819)
+  AUTHORS   Ruiz-Martinez J, Krebs CE, Makarov V, Gorostidi A, Marti-Masso JF
+            and Paisan-Ruiz C.
+  TITLE     GIGYF2 mutation in late-onset Parkinson's disease with cognitive
+            impairment
+  JOURNAL   J. Hum. Genet. 60 (10), 637-640 (2015)
+   PUBMED   26134514
+  REMARK    GeneRIF: required, this finding may shed light on the
+            GIGYF2-associated mechanisms that lead to PD and suggests insulin
+            dysregulation as a disease-specific mechanism for both PD and
+            cognitive dysfunction.
+REFERENCE   4  (bases 1 to 7819)
+  AUTHORS   Guo Z, Neilson LJ, Zhong H, Murray PS, Zanivan S and Zaidel-Bar R.
+  TITLE     E-cadherin interactome complexity and robustness resolved by
+            quantitative proteomics
+  JOURNAL   Sci Signal 7 (354), RS7 (2014)
+   PUBMED   25468996
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 7819)
+  CONSRTM   Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  TITLE     Biological insights from 108 schizophrenia-associated genetic loci
+  JOURNAL   Nature 511 (7510), 421-427 (2014)
+   PUBMED   25056061
+REFERENCE   6  (bases 1 to 7819)
+  AUTHORS   Tan,E.K. and Schapira,A.H.
+  TITLE     Summary of GIGYF2 studies in Parkinson's disease: the burden of
+            proof
+  JOURNAL   Eur. J. Neurol. 17 (2), 175-176 (2010)
+   PUBMED   19906271
+REFERENCE   7  (bases 1 to 7819)
+  AUTHORS   Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li
+            J, Cohn MA, Cantley LC and Gygi SP.
+  TITLE     Large-scale characterization of HeLa cell nuclear phosphoproteins
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 101 (33), 12130-12135 (2004)
+   PUBMED   15302935
+REFERENCE   8  (bases 1 to 7819)
+  AUTHORS   Giovannone B, Lee E, Laviola L, Giorgino F, Cleveland KA and Smith
+            RJ.
+  TITLE     Two novel proteins that are linked to insulin-like growth factor
+            (IGF-I) receptors by the Grb10 adapter and modulate IGF-I signaling
+  JOURNAL   J. Biol. Chem. 278 (34), 31564-31573 (2003)
+   PUBMED   12771153
+REFERENCE   9  (bases 1 to 7819)
+  AUTHORS   Pankratz N, Nichols WC, Uniacke SK, Halter C, Rudolph A, Shults C,
+            Conneally PM and Foroud T.
+  CONSRTM   Parkinson Study Group
+  TITLE     Significant linkage of Parkinson disease to chromosome 2q36-37
+  JOURNAL   Am. J. Hum. Genet. 72 (4), 1053-1057 (2003)
+   PUBMED   12638082
+REFERENCE   10 (bases 1 to 7819)
+  AUTHORS   Margolis RL, Abraham MR, Gatchell SB, Li SH, Kidwai AS, Breschel
+            TS, Stine OC, Callahan C, McInnis MG and Ross CA.
+  TITLE     cDNAs with long CAG trinucleotide repeats from human brain
+  JOURNAL   Hum. Genet. 100 (1), 114-122 (1997)
+   PUBMED   9225980
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BG527686.1, DC346582.1,
+            BX538321.1, BC146775.1, AC016692.9 and BE220828.1.
+            
+            Summary: This gene contains CAG trinucleotide repeats and encodes a
+            protein containing several stretches of polyglutamine residues. The
+            encoded protein may be involved in the regulation of tyrosine
+            kinase receptor signaling. This gene is located in a chromosomal
+            region that was genetically linked to Parkinson disease type 11,
+            and mutations in this gene were thought to be causative for this
+            disease. However, more recent studies in different populations have
+            been unable to replicate this association. Alternative splicing
+            results in multiple transcript variants. [provided by RefSeq, May
+            2013].
+            
+            Transcript Variant: This variant (3) lacks an alternate exon in the
+            5' UTR and lacks an exon in the coding region, but maintains the
+            reading frame, compared to variant 1. The encoded isoform (b) is
+            shorter than isoform a. Both variants 2 and 3 encode the same
+            isoform (b).
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660803.177494.1,
+                                           SRR1660809.37210.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2                 BG527686.1         2-3
+            3-574               DC346582.1         1-572
+            575-1984            BX538321.1         531-1940
+            1985-5849           BC146775.1         2077-5941
+            5850-7255           AC016692.9         55357-56762
+            7256-7819           BE220828.1         1-564               c
+FEATURES             Location/Qualifiers
+     source          1..7819
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q37.1"
+     gene            1..7819
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /note="GRB10 interacting GYF protein 2"
+                     /db_xref="GeneID:26058"
+                     /db_xref="HGNC:HGNC:11960"
+                     /db_xref="MIM:612003"
+     exon            1..88
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            89..154
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            155..238
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    168..170
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /note="upstream in-frame stop codon"
+     CDS             198..4097
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /note="isoform b is encoded by transcript variant 3; PERQ
+                     amino acid rich, with GYF domain 3; PERQ amino acid-rich
+                     with GYF domain-containing protein 2; trinucleotide
+                     repeat-containing gene 15 protein; Parkinson disease
+                     (autosomal recessive, early onset) 11"
+                     /codon_start=1
+                     /product="GRB10-interacting GYF protein 2 isoform b"
+                     /protein_id="NP_001096616.1"
+                     /db_xref="CCDS:CCDS33401.1"
+                     /db_xref="GeneID:26058"
+                     /db_xref="HGNC:HGNC:11960"
+                     /db_xref="MIM:612003"
+                     /translation="MAAETQTLNFGPEWLRALSSGGSITSPPLSPALPKYKLADYRYG
+                     REEMLALFLKDNKIPSDLLDKEFLPILQEEPLPPLALVPFTEEEQRNFSMSVNSAAVL
+                     RLTGRGGGGTVVGAPRGRSSSRGRGRGRGECGFYQRSFDEVEGVFGRGGGREMHRSQS
+                     WEERGDRRFEKPGRKDVGRPNFEEGGPTSVGRKHEFIRSESENWRIFREEQNGEDEDG
+                     GWRLAGSRRDGERWRPHSPDGPRSAGWREHMERRRRFEFDFRDRDDERGYRRVRSGSG
+                     SIDDDRDSLPEWCLEDAEEEMGTFDSSGAFLSLKKVQKEPIPEEQEMDFRPVDEGEEC
+                     SDSEGSHNEEAKEPDKTNKKEGEKTDRVGVEASEETPQTSSSSARPGTPSDHQSQEAS
+                     QFERKDEPKTEQTEKAEEETRMENSLPAKVPSRGDEMVADVQQPLSQIPSDTASPLLI
+                     LPPPVPNPSPTLRPVETPVVGAPGMGSVSTEPDDEEGLKHLEQQAEKMVAYLQDSALD
+                     DERLASKLQEHRAKGVSIPLMHEAMQKWYYKDPQGEIQGPFNNQEMAEWFQAGYFTMS
+                     LLVKRACDESFQPLGDIMKMWGRVPFSPGPAPPPHMGELDQERLTRQQELTALYQMQH
+                     LQYQQFLIQQQYAQVLAQQQKAALSSQQQQQLALLLQQFQTLKMRISDQNIIPSVTRS
+                     VSVPDTGSIWELQPTASQPTVWEGGSVWDLPLDTTTPGPALEQLQQLEKAKAAKLEQE
+                     RREAEMRAKREEEERKRQEELRRQQEEILRRQQEEERKRREEEELARRKQEEALRRQR
+                     EQEIALRRQREEEERQQQEEALRRLEERRREEEERRKQEELLRKQEEEAAKWAREEEE
+                     AQRRLEENRLRMEEEAARLRHEEEERKRKELEVQRQKELMRQRQQQQEALRRLQQQQQ
+                     QQQLAQMKLPSSSTWGQQSNTTACQSQATLSLAEIQKLEEERERQLREEQRRQQRELM
+                     KALQQQQQQQQQKLSGWGNVSKPSGTTKSLLEIQQEEARQMQKQQQQQQQHQQPNRAR
+                     NNTHSNLHTSIGNSVWGSINTGPPNQWASDLVSSIWSNADTKNSNMGFWDDAVKEVGP
+                     RNSTNKNKNNASLSKSVGVSNRQNKKVEEEEKLLKLFQGVNKAQDGFTQWCEQMLHAL
+                     NTANNLDVPTFVSFLKEVESPYEVHDYIRAYLGDTSEAKEFAKQFLERRAKQKANQQR
+                     QQQQLPQQQQQQPPQQPPQQPQQQDSVWGMNHSTLHSVFQTNQSNNQQSNFEAVQSGK
+                     KKKKQKMVRADPSLLGFSVNASSERLNMGEIETLDDY"
+     misc_feature    201..203
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylalanine. {ECO:0000244|PubMed:22223895};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     acetylation site"
+     misc_feature    252..254
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    273..275
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:16964243,
+                     ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    285..287
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18220336,
+                     ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    315..347
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     Region: 4EHP-binding motif. {ECO:0000269|PubMed:22751931}"
+     misc_feature    516..518
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000250|UniProtKB:Q6Y7W8}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); methylation site"
+     misc_feature    549..551
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000250|UniProtKB:Q6Y7W8}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); methylation site"
+     misc_feature    555..557
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000250|UniProtKB:Q6Y7W8}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); methylation site"
+     misc_feature    612..614
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    642..644
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000250|UniProtKB:Q6Y7W8}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); methylation site"
+     misc_feature    675..677
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); phosphorylation site"
+     misc_feature    762..764
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); phosphorylation site"
+     misc_feature    903..905
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:24275569}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); phosphorylation site"
+     misc_feature    1341..1343
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:19690332, ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q6Y7W6.1); phosphorylation site"
+     misc_feature    1359..1361
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    1836..1886
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     Region: Required for GRB10-binding. {ECO:0000250}"
+     misc_feature    1974..1976
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    3174..3176
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     misc_feature    4047..4049
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q6Y7W6.1);
+                     phosphorylation site"
+     exon            239..368
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            369..464
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            465..576
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            577..688
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            689..729
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            730..909
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            910..1127
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1128..1290
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1291..1479
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1480..1676
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1677..1836
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1837..2003
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2004..2095
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2096..2203
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2204..2304
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2305..2405
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2406..2567
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2568..2726
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2727..2963
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2964..3086
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3087..3296
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3297..3502
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3503..3657
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3658..3881
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3882..4029
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4030..7814
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /inference="alignment:Splign:1.39.8"
+     STS             4292..5182
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /standard_name="TNRC15__5112"
+                     /db_xref="UniSTS:466520"
+     STS             4916..5042
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /standard_name="SHGC-33096"
+                     /db_xref="UniSTS:1758"
+     polyA_site      5069
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+     STS             5573..5731
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /standard_name="WIAF-2198"
+                     /db_xref="UniSTS:22314"
+     STS             5697..5769
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /standard_name="STS-Z40945"
+                     /db_xref="UniSTS:18579"
+     regulatory      5827..5832
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+     polyA_site      5849
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+     STS             7589..7782
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+                     /standard_name="RH68362"
+                     /db_xref="UniSTS:24220"
+     regulatory      7790..7795
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+     polyA_site      7814
+                     /gene="GIGYF2"
+                     /gene_synonym="GYF2; PARK11; PERQ2; PERQ3; TNRC15"
+ORIGIN      
+        1 gtgacgtgcg tggcgacgtg tcggccatct tgtgttgttg aggctgagga ctgactgggg
+       61 ttctgagact ccctgtcccg gaccgcagcg ttaaaaggat ctgaacaaag tctgctcaaa
+      121 tctcctgctg tgaaccagca gaatttttga acaggtttct tcacatataa aaatctattg
+      181 taaaaatacg gaaaagaatg gcagcggaaa cgcagacact gaactttggg cctgaatggc
+      241 tccgagctct gtccagtggt gggagtatta catcccctcc tctttctcca gcattgccga
+      301 agtataaatt agcagattat cgttacggca gagaagaaat gttagcactt ttccttaaag
+      361 acaacaagat accttcagac cttctggata aagaatttct gcctatcctc caggaggaac
+      421 cccttccacc attggctctg gtacccttta cagaagaaga acagagaaac ttttccatgt
+      481 ctgtaaatag tgctgctgtc ctgcgattga caggacgagg aggaggagga acagtggtgg
+      541 gggctcctag aggtcgaagt tcttcaagag ggcgaggcag aggcagaggt gaatgtggtt
+      601 tctaccaaag aagttttgat gaagtagagg gtgtttttgg tcgaggaggt ggcagagaaa
+      661 tgcatagatc gcagagctgg gaggaaaggg gtgacagacg ttttgaaaaa ccaggacgaa
+      721 aagatgtagg gagaccaaat tttgaggaag gtggaccaac atcagtaggg agaaagcatg
+      781 aatttatacg ctcagaaagt gaaaattggc gcatctttag agaggaacaa aatggagaag
+      841 atgaagatgg aggttggcga ctagctggat caaggaggga tggagagagg tggcgacctc
+      901 acagtcctga tggccctcgt tctgcaggct ggcgggaaca catggaacga cgtcggaggt
+      961 ttgagtttga ttttcgagat agagatgatg aacggggtta ccgaagggtt cgctctggca
+     1021 gtgggagcat agatgatgac agggatagct tgcccgaatg gtgcttagag gatgctgaag
+     1081 aagaaatggg tacatttgac tcatctggag cattcctttc tctaaaaaaa gtacagaaag
+     1141 agcctattcc agaagagcag gagatggact tccggcctgt ggacgaaggg gaggagtgct
+     1201 ctgactctga gggtagccat aatgaagagg ccaaagaacc cgataagaca aataagaaag
+     1261 aaggagagaa aacagataga gtaggagttg aagctagtga ggaaactccc cagacctcat
+     1321 catcatctgc tagaccaggt actccttcag accatcagtc tcaggaagca tcacagtttg
+     1381 agaggaaaga tgaaccaaaa actgagcaaa cggaaaaagc tgaagaggag actcggatgg
+     1441 aaaatagtct accagccaaa gtgcccagca gaggggatga aatggttgct gatgtccagc
+     1501 agcccctgtc gcagattcct tcagatacag cctctcctct tctcatactt ccacctcctg
+     1561 ttcccaatcc tagtcctact ctccggccag ttgaaacacc agttgtaggt gctcctggta
+     1621 tgggcagtgt ttccacagaa cctgatgatg aagaaggtct caaacatttg gagcagcaag
+     1681 ctgagaaaat ggtggcttat ctccaagaca gtgcactaga tgatgaaaga ttggcatcaa
+     1741 aactgcaaga gcacagagct aaaggagtgt cgattccatt gatgcatgaa gcaatgcaga
+     1801 agtggtatta caaagatcct cagggagaaa ttcaaggtcc cttcaataat caggagatgg
+     1861 cagaatggtt tcaggcgggc tattttacta tgtctttatt ggtgaagaga gcgtgtgatg
+     1921 aaagcttcca acctcttggc gatatcatga aaatgtgggg aagggttccc ttttctccag
+     1981 gtccagctcc ccctcctcat atgggagagc tggaccagga acgactgacc aggcagcaag
+     2041 aactcacagc cttataccag atgcagcacc tgcagtacca gcagttttta atacaacaac
+     2101 aatatgcaca ggttttggcc caacagcaga aagcagcact gtcttcccag cagcagcagc
+     2161 agttggcact tcttcttcaa cagtttcaga ccttgaagat gagaatatct gatcagaaca
+     2221 tcattccctc agtaactagg tctgtgtccg tgccagatac tggctctatc tgggagcttc
+     2281 agccaacagc ttcacagcct acagtttggg aaggtggtag tgtatgggat cttcctctgg
+     2341 acaccacgac accaggccct gccctggaac agcttcagca gctagagaag gccaaagctg
+     2401 caaagctaga gcaagagaga agagaggcag aaatgagggc aaaacgggaa gaggaagagc
+     2461 gaaagaggca ggaagaactc cgaagacaac aggaggaaat tcttcggcga cagcaggaag
+     2521 aagaaaggaa aaggcgagag gaagaagaac ttgcccgaag gaaacaggaa gaggctctgc
+     2581 gtcgccagcg ggagcaagaa attgcattaa ggcgacagcg agaagaggaa gaaagacagc
+     2641 agcaagaaga agctcttaga agactggaag agaggagaag agaagaggaa gaaaggcgga
+     2701 agcaggaaga attgttacgc aaacaggaag aggaggctgc aaaatgggcc cgggaagaag
+     2761 aagaagccca gcgtcgatta gaggagaacc ggctgcggat ggaagaggag gcagccagac
+     2821 tccggcatga ggaagaagaa cggaagagaa aggagctgga ggtccagcgg cagaaggagt
+     2881 taatgcgcca gaggcagcag cagcaagagg ctctccggag gttgcagcag cagcagcagc
+     2941 aacaacagct ggcgcagatg aagcttcctt cttcttcaac gtggggccag cagtccaata
+     3001 caacagcatg tcagtcccag gccacgctgt cgttggctga aatccaaaaa ctagaggaag
+     3061 aacgagaacg gcagcttcga gaagagcaaa ggcgccagca gagggagttg atgaaagctc
+     3121 ttcagcagca gcagcaacag caacagcaga aactctcagg ttgggggaat gtcagcaaac
+     3181 cttcaggtac cacgaaatct cttctggaga tccagcagga agaggccagg caaatgcaaa
+     3241 agcagcagca gcagcagcag caacaccagc aaccaaacag agctcgtaac aatacgcatt
+     3301 ccaacctgca caccagcatt gggaattctg tttggggctc tataaatact ggtcctccta
+     3361 accagtgggc atctgaccta gtcagtagta tttggagtaa tgctgacact aaaaactcca
+     3421 acatgggatt ctgggatgat gcagtgaaag aggtgggacc taggaattca acaaataaaa
+     3481 ataaaaacaa cgccagtctc agtaaatctg taggtgtgtc taaccggcag aataagaaag
+     3541 tagaagaaga agaaaagttg ctgaagctct ttcagggagt aaataaagcc caagatggat
+     3601 ttacgcagtg gtgtgaacag atgcttcatg cccttaatac ggcaaataac ttggatgttc
+     3661 ccacatttgt ttctttcctg aaagaagtag aatctcctta tgaggtccat gattatatca
+     3721 gggcctattt aggagatact tctgaggcca aggagtttgc caagcagttc cttgagcgcc
+     3781 gtgccaaaca gaaagccaac cagcagcgtc agcagcagca gctgccacag cagcagcagc
+     3841 agcagccgcc acagcagccg ccacagcagc cacaacagca ggactctgtg tgggggatga
+     3901 accacagtac actccattca gtatttcaga ccaatcaaag caacaaccaa caatccaatt
+     3961 ttgaggctgt gcagagtggc aagaagaaga aaaagcagaa gatggtccga gcagatccca
+     4021 gtttattagg attttcagtc aatgcatcat cggagcgact caacatgggt gaaatcgaga
+     4081 cgttggatga ctactgagca cctgccagtg gactggccat ccctctcctg tctgccgact
+     4141 atggagtctc cacctttgga cacaacactt actcaccatt tactctttat cactctgcaa
+     4201 caaatcacag aaccgatcat ctcaggcttt ttcttctggc cctttgtgtc caagattctt
+     4261 taatccattt ttgttggtga acatctcaga ctatagataa gtggactgga ccctgtgtct
+     4321 tgggggtggc agttgggatt actccccaac aaggctgatt ttaggcagca tgtgttcact
+     4381 gtgctgtgat ttcatctact gtctcccaga aagtgtgttg ggatcggcca ttagcagctt
+     4441 gctttctctt gtcacttttt ttcttctatt ttgttttttc ttcttctttt tccccccatc
+     4501 agggcaaatg gtctaactgg tgcaatcatg aagagagtta atggttaaca gacattggcc
+     4561 aataacaaaa caccccatgg actgtgactc gagtatccaa caggcagtca gagctctccc
+     4621 ggtctgaaag ttgcattgcc actgctaact ttgggattgc atcagagagg ccctgagtgg
+     4681 ggttgagatg aggttggttt ggtttgatgt tacacactcc tcacctgttc tttctgagtg
+     4741 tcctttctct gaaaggattt atgtttttct tcgttagata gtgacttctg agcaagctga
+     4801 tctcccctgg catgctccaa cctgattgga caaaggaagc tctatggcct gggagagaga
+     4861 ctattcttaa tttttctttc ttacaaaaac tgatttttcc cataaatatt tttacttcag
+     4921 aggactagga ccattttgtt ttgggccctt ctgctgaaaa tttgtctcgt ttaagaggca
+     4981 gctagaatct ttaccatatg tatgaatttg tataatttca tttttggata gggataaact
+     5041 tttgcttctg ataaaagcct ggaatttcat ctggtcctca gagcattgcg tgtgtgtctt
+     5101 gctgtagccc ggaaaaggtt ttgtgtaaag attctgggat ggcaagttgt ttgccttttc
+     5161 tgaaaagaga acatacagaa cctgtccatc tttaagacct tcatccatgg aatctactat
+     5221 acaggaggat gcagtgggct ggaggggatg ggcgaaaatg ggagcaggaa gcctggcctg
+     5281 gcttctggtc atggcctcct aaaaccttaa acttcaagta gaaatgtact caagccctat
+     5341 ttataaacaa atacttttcc tgcctccacc aaacccctac agaacatcac ctggaattgc
+     5401 cactcacact gggttggagt cattgggcag ctgtgcctgt gcgagaggtg ctgtggtctg
+     5461 ggcagcccct ggaaaagcac ctttgctgcc tgtcattgtt gcctgaagaa ggctggagtt
+     5521 gctctgagag cagtttgggt ttggagtatt atatttggct tctattttta ttattttgga
+     5581 tcaccattct ccctatccct tcttgcctcc ctcccttcta aacatgtgta ataactatac
+     5641 agagactgct acaaaattgt atatagtttt tggatcaaat agcatgaggg gagaggaaac
+     5701 cattaaaagt tggggctcct actctccttt gctttgtaaa ttcaaaagtt gggggtgggt
+     5761 aagagggata gttaaaatgt ttacaaaact ttaggctccc tcggaacttt tgccagtgtg
+     5821 gaggaaaata aaaaagaact taaataaaat ctgattgtat tctatctgag tgcacctctt
+     5881 gtactcacct ttatggaggc tgagttctgc actaaactgt tcctcttggt accatggaaa
+     5941 agctccaagc acccaagaca tggaggcagc catggcttct ttctctgcca gaccacgtag
+     6001 cactggctgg ttctgtattt gagaatgtag aggtcaaggc agatgtcggt aagtttgacc
+     6061 aaatatcttt tctctttttg actctccctt tctgctaaca tgtggatcag ctcctgccct
+     6121 cataccgcag acacacccac tctgaacaca cccctccaga gcttgcccac accttcccaa
+     6181 ctagactctg tgtgtgtatt caggaaaaat gaaaataaat ttttaaaaat tgggagtgga
+     6241 atgggcagat tagggggaac aaagtcattt tggtcatgga acatccattt gcttaaccaa
+     6301 ggagacttgc ttctatctga ggaatttccc acttagtaga aagaaacact cttccctggg
+     6361 aatgtttgtt tctgtctctc tcaatgctac tctctttcat attctcattt gctcaccctt
+     6421 tcacttagag ccaccgtttt ctcatcccat tctatgaact tatttccaaa ttctcctaac
+     6481 tattcctgag ttttgaagta tttgttttgt accctctctg cttccggttt tttgtttggt
+     6541 tggctttttt ggagataggg tcttgtgatg ttgcccacac tggtctcgag cccctgggct
+     6601 caagtgatcc tcccgcctca gcctcctaaa tatctaggac tacaggtgtg tgccaccatg
+     6661 cccagctcca gttttgttgg ttgatttgtt taaattcaga gatttaaaaa catcccagac
+     6721 aagacagttt gattatggag actgtcccca agcagattgg tgtgctggtg gctgctgtgc
+     6781 ataacagatt ccctccagat tggcttacaa cagctacttc attctgtggg tcaggaattt
+     6841 ggatagggct cagctgggtg gtggttctcc tggggtattc tttggttgtg gtcagatgtc
+     6901 ttccagggca tcattcctat gaaggcttaa tgaattaggc aagctgtcca agatggctca
+     6961 ctcgtgtaat gacagttgac gttggctgta ggctgggaac tcagctgggt tgatgactgg
+     7021 aggagcttat gtgtgtcgtc tccggaatgg cagcttcaga ggagttgaac ttaagtggtg
+     7081 attggcttcc cccagagaac caggcagaag ctgtgttacc tttttgagct cttagctcag
+     7141 gagtcacata gagtcacttc tgtgacactg tgttgcatca aagtagtcac aaacccactc
+     7201 agattcaaga gaagggagca tggccctctc cctgcaaccc cctccccccc cgccttgatg
+     7261 aaaggagtga caaggtcaca ttggagaaga gcttgtgggg tgggagatat tatagccatt
+     7321 tttgggaaat atctgcataa aatgagttta tgcatacatg aaggacttta ttttcattgg
+     7381 ctttaagttg agggtttttg tttttgtttt tgtattggag atgggttctt actatgttgc
+     7441 ccaggctggt ctcaaacccc tgggctcaag tgatcctgtt gcctcagcct cccaagtagc
+     7501 tgggactaca gctatgtgcc agtgcaccca gcttgttttt tttaaatttt aggatagata
+     7561 atggtacttc tggctttatt taaataattt ttttagggaa accattgtat ttatacatgc
+     7621 atatattttt atatatacaa atatgtatat aaaagtatat gttttacatt ttcaatatat
+     7681 atataatata tacatatatg ttatatacgt atatatattg caccctactt taaaattgac
+     7741 tgataacaaa attggtaatt ttgtataaaa tgcccaactg tgcattatta ataaaagtat
+     7801 gtgaatgact ctaaaaaaa
+//
+

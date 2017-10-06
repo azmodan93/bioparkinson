@@ -1,0 +1,267 @@
+LOCUS       NM_001321727            2484 bp    mRNA    linear   PRI 03-OCT-2017
+DEFINITION  Homo sapiens HtrA serine peptidase 2 (HTRA2), transcript variant 3,
+            mRNA.
+ACCESSION   NM_001321727
+VERSION     NM_001321727.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2484)
+  AUTHORS   Renaud M, Marcel C, Rudolf G, Schaeffer M, Lagha-Boukbiza O,
+            Chanson JB, Chelly J, Anheim M and Tranchant C.
+  TITLE     A step toward essential tremor gene discovery: identification of
+            extreme phenotype and screening of HTRA2 and ANO3
+  JOURNAL   BMC Neurol 16 (1), 238 (2016)
+   PUBMED   27881096
+  REMARK    GeneRIF: HTRA2 and ANO3 mutations are not common causes of
+            essential tremor
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2484)
+  AUTHORS   Mandel H, Saita S, Edvardson S, Jalas C, Shaag A, Goldsher D,
+            Vlodavsky E, Langer T and Elpeleg O.
+  TITLE     Deficiency of HTRA2/Omi is associated with infantile
+            neurodegeneration and 3-methylglutaconic aciduria
+  JOURNAL   J. Med. Genet. 53 (10), 690-696 (2016)
+   PUBMED   27208207
+  REMARK    GeneRIF: The first report of recessive deleterious mutations in
+            HTRA2 in human. Absence of HTRA2/Omi is associated with severe
+            neurodegenerative disorder of infancy, abnormal mitochondria,
+            3-methylglutaconic aciduria and increased sensitivity to apoptosis.
+REFERENCE   3  (bases 1 to 2484)
+  AUTHORS   Jarzab M, Wenta T, Zurawa-Janicka D, Polit A, Gieldon AJ, Wysocka
+            M, Glaza P, Skorko-Glonek J, Ciarkowski J, Lesner A and Lipinska B.
+  TITLE     Intra- and intersubunit changes accompanying thermal activation of
+            the HtrA2(Omi) protease homotrimer
+  JOURNAL   Biochim. Biophys. Acta 1864 (3), 283-296 (2016)
+   PUBMED   26702898
+  REMARK    GeneRIF: The a5 helix of PDZ was involved in both, the intra- and
+            intersubunit changes of interactions and thus seems to play an
+            important role in HtrA2 activation.
+REFERENCE   4  (bases 1 to 2484)
+  AUTHORS   Maus F, Sakry D, Biname F, Karram K, Rajalingam K, Watts C, Heywood
+            R, Kruger R, Stegmuller J, Werner HB, Nave KA, Kramer-Albers EM and
+            Trotter J.
+  TITLE     The NG2 Proteoglycan Protects Oligodendrocyte Precursor Cells
+            against Oxidative Stress via Interaction with OMI/HtrA2
+  JOURNAL   PLoS ONE 10 (9), E0137311 (2015)
+   PUBMED   26340347
+  REMARK    GeneRIF: The NG2 proteoglycan protects oligodendrocyte precursor
+            cells against oxidative stress via interaction with OMI/HtrA2.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2484)
+  AUTHORS   Suzuki Y, Takahashi-Niki K, Akagi T, Hashikawa T and Takahashi R.
+  TITLE     Mitochondrial protease Omi/HtrA2 enhances caspase activation
+            through multiple pathways
+  JOURNAL   Cell Death Differ. 11 (2), 208-216 (2004)
+   PUBMED   14605674
+  REMARK    GeneRIF: protease activity of Omi/HtrA2 promotes caspase activation
+            through multiple pathways
+REFERENCE   6  (bases 1 to 2484)
+  AUTHORS   Faccio L, Fusco C, Viel A and Zervos AS.
+  TITLE     Tissue-specific splicing of Omi stress-regulated endoprotease leads
+            to an inactive protease with a modified PDZ motif
+  JOURNAL   Genomics 68 (3), 343-347 (2000)
+   PUBMED   10995577
+REFERENCE   7  (bases 1 to 2484)
+  AUTHORS   Gray CW, Ward RV, Karran E, Turconi S, Rowles A, Viglienghi D,
+            Southan C, Barton A, Fantom KG, West A, Savopoulos J, Hassan NJ,
+            Clinkenbeard H, Hanning C, Amegadzie B, Davis JB, Dingwall C, Livi
+            GP and Creasy CL.
+  TITLE     Characterization of human HtrA2, a novel serine protease involved
+            in the mammalian cellular stress response
+  JOURNAL   Eur. J. Biochem. 267 (18), 5699-5710 (2000)
+   PUBMED   10971580
+REFERENCE   8  (bases 1 to 2484)
+  AUTHORS   Savopoulos JW, Carter PS, Turconi S, Pettman GR, Karran EH, Gray
+            CW, Ward RV, Jenkins O and Creasy CL.
+  TITLE     Expression, purification, and functional analysis of the human
+            serine protease HtrA2
+  JOURNAL   Protein Expr. Purif. 19 (2), 227-234 (2000)
+   PUBMED   10873535
+REFERENCE   9  (bases 1 to 2484)
+  AUTHORS   Faccio L, Fusco C, Chen A, Martinotti S, Bonventre JV and Zervos
+            AS.
+  TITLE     Characterization of a novel human serine protease that has
+            extensive homology to bacterial heat shock endoprotease HtrA and is
+            regulated by kidney ischemia
+  JOURNAL   J. Biol. Chem. 275 (4), 2581-2588 (2000)
+   PUBMED   10644717
+REFERENCE   10 (bases 1 to 2484)
+  AUTHORS   Farlow,J., Pankratz,N.D., Wojcieszek,J. and Foroud,T.
+  TITLE     Parkinson Disease Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301402
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC005041.2.
+            
+            Summary: This gene encodes a serine protease. The protein has been
+            localized in the endoplasmic reticulum and interacts with an
+            alternatively spliced form of mitogen-activated protein kinase 14.
+            The protein has also been localized to the mitochondria with
+            release to the cytosol following apoptotic stimulus. The protein is
+            thought to induce apoptosis by binding the apoptosis inhibitory
+            protein baculoviral IAP repeat-containing 4. Nuclear localization
+            of this protein has also been observed. Alternate splicing of this
+            gene results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Mar 2016].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF141306.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA2147975
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1108              AC005041.2         4787-5894           c
+            1109-1313           AC005041.2         4478-4682           c
+            1314-1508           AC005041.2         4194-4388           c
+            1509-1541           AC005041.2         3928-3960           c
+            1542-1677           AC005041.2         3597-3732           c
+            1678-1747           AC005041.2         3374-3443           c
+            1748-2484           AC005041.2         1743-2479           c
+FEATURES             Location/Qualifiers
+     source          1..2484
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2p13.1"
+     gene            1..2484
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /note="HtrA serine peptidase 2"
+                     /db_xref="GeneID:27429"
+                     /db_xref="HGNC:HGNC:14348"
+                     /db_xref="MIM:606441"
+     exon            1..1108
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    225..227
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /note="upstream in-frame stop codon"
+     CDS             603..1913
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /EC_number="3.4.21.108"
+                     /note="isoform 3 preproprotein is encoded by transcript
+                     variant 3; protease, serine, 25; HtrA-like serine
+                     protease; high temperature requirement protein A2; Omi
+                     stress-regulated endoprotease; serine protease HTRA2,
+                     mitochondrial; serine protease 25; serine proteinase OMI"
+                     /codon_start=1
+                     /product="serine protease HTRA2, mitochondrial isoform 3
+                     preproprotein"
+                     /protein_id="NP_001308656.1"
+                     /db_xref="GeneID:27429"
+                     /db_xref="HGNC:HGNC:14348"
+                     /db_xref="MIM:606441"
+                     /translation="MAAPRAGRGAGWSLRAWRALGGIRWGRRPRLTPDLRALLTSGTS
+                     DPRARVTYGTPSLWARLSVGVTEPRACLTSGTPGPRAQLTAVTPDTRTREASENSGTR
+                     SRAWLAVALGAGGAVLLLLWGGGRGPPAVLAAVPSPPPASPRSQYNFIADVVEKTAPA
+                     VVYIEILDRHPFLGREVPISNGSGFVVAADGLIVTNAHVVADRRRVRVRLLSGDTYEA
+                     VVTAVDPVADIATLRIQTKEPLPTLPLGRSADVRQGEFVVAMGSPFALQNTITSGIVS
+                     SAQRPARDLGLPQTNVEYIQTDAAIDFGNSGGPLVNLARELGAVSLQDGEVIGVNTMK
+                     VTAGISFAIPSDRLREFLHRGEKKNSSSGISGSQRRYIGVMMLTLSPRAGLRPGDVIL
+                     AIGEQMVQNAEDVYEAVRTQSQLAVQIRRGRETLTLYVTPEVTE"
+     transit_peptide 603..695
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+     proprotein      696..1910
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /product="serine protease HTRA2, mitochondrial isoform 3
+                     proprotein"
+     mat_peptide     1002..1910
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /product="serine protease HTRA2, mitochondrial isoform 3"
+     exon            1109..1313
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1314..1508
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1509..1541
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1542..1677
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1678..1747
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1748..2484
+                     /gene="HTRA2"
+                     /gene_synonym="MGCA8; OMI; PARK13; PRSS25"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 cgtggatccc gagaaagagg cgcaggacga ggaggcagaa cccgactggc gcgtagagca
+       61 gcagcacgag cagtaggaag cagtcacccg gaagcctggg ggcgagaggc gaagtggtca
+      121 ggcgccgaag gccgagagca cgcggggatc ggtctcttcc cgccgggtct cttaccggtg
+      181 cgagtcaaag agccgctccg gccccggccc tgagggaagc tccataactg ctgcttcagg
+      241 agcgcccggc cgtcgccgcc gccgccattt tcgcgcccgg ccgcaggggc tcttgggaag
+      301 gcggagtctt tgggcatccg cccggggtga ggggacccga agtcctgagg cgcgccggaa
+      361 gggctagcgg tcccagcata ccccgcggcc ccttgggccg tctcacaact cgcgtccggc
+      421 ggagaccaca attcccggca ttcgtggggc agggaggagt cggcctcccg gaatcctggt
+      481 cccggcgtgc acttctgaag gacttcaggt accggcgtgc cccgcgtcct actgtccgcc
+      541 tgctcgcgtc ctgggtgccg cctctgagta gggcgggcga ggaggcagcc aaggcggagc
+      601 tgatggctgc gccgagggcg gggcggggtg caggctggag ccttcgggca tggcgggctt
+      661 tggggggcat tcgctggggg aggagacccc gtttgacccc tgacctccgg gccctgctga
+      721 cgtcaggaac ttctgacccc cgggcccgag tgacttatgg gacccccagt ctctgggccc
+      781 ggttgtctgt tggggtcact gaaccccgag catgcctgac gtctgggacc ccgggtcccc
+      841 gggcacaact gactgcggtg accccagata ccaggacccg ggaggcctca gagaactctg
+      901 gaacccgttc gcgcgcgtgg ctggcggtgg cgctgggcgc tgggggggca gtgctgttgt
+      961 tgttgtgggg cgggggtcgg ggtcctccgg ccgtcctcgc cgccgtccct agcccgccgc
+     1021 ccgcttctcc ccggagtcag tacaacttca tcgcagatgt ggtggagaag acagcacctg
+     1081 ccgtggtcta tatcgagatc ctggaccggc accctttctt gggccgcgag gtccctatct
+     1141 cgaacggctc aggattcgtg gtggctgccg atgggctcat tgtcaccaac gcccatgtgg
+     1201 tggctgatcg gcgcagagtc cgtgtgagac tgctaagcgg cgacacgtat gaggccgtgg
+     1261 tcacagctgt ggatcccgtg gcagacatcg caacgctgag gattcagact aaggagcctc
+     1321 tccccacgct gcctctggga cgctcagctg atgtccggca aggggagttt gttgttgcca
+     1381 tgggaagtcc ctttgcactg cagaacacga tcacatccgg cattgttagc tctgctcagc
+     1441 gtccagccag agacctggga ctcccccaaa ccaatgtgga atacattcaa actgatgcag
+     1501 ctattgattt tggaaactct ggaggtcccc tggttaacct ggctagggaa ctgggggctg
+     1561 tatccctgca ggatggggag gtgattggag tgaacaccat gaaggtcaca gctggaatct
+     1621 cctttgccat cccttctgat cgtcttcgag agtttctgca tcgtggggaa aagaagaatt
+     1681 cctcctccgg aatcagtggg tcccagcggc gctacattgg ggtgatgatg ctgaccctga
+     1741 gtcccagggc tggtctgcgg cctggtgatg tgattttggc cattggggag cagatggtac
+     1801 aaaatgctga agatgtttat gaagctgttc gaacccaatc ccagttggca gtgcagatcc
+     1861 ggcggggacg agaaacactg accttatatg tgacccctga ggtcacagaa tgaatagatc
+     1921 accaagagta tgaggctcct gctctgattt cctccttgcc tttctggctg aggttctgag
+     1981 ggcaccgaga cagagggtta aatgaaccag tgggggcagg tccctccaac caccagcact
+     2041 gactcctggg ctctgaagaa tcacagaaac actttttata taaaataaaa ttatacctag
+     2101 caacatatta tagtaaaaaa tgaggtggga gggctggatc ttttccccca ccaaaaggct
+     2161 agaggtaaag ctgtatcccc ctaaacttag gggagatact ggagctgacc atcctgacct
+     2221 cctattaaag aaaatgagct gctgccatct tttgtgggca gttagtcagg tgctgctctt
+     2281 tgtggtgtgg tgggctctgg tctgttctgc tcggtgctgg gcctgggagc aaagattccc
+     2341 atgcttggct acagatactg acagctggcc tctgaaggag ggtgaaaact tctgcttgac
+     2401 agttccacat ccatagtgca tggtctgatg agtgcggttg ctgacatggg tttcttggta
+     2461 agctcctgag gtaatggcag cctc
+//
+

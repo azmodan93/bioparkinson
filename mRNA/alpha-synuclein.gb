@@ -1,0 +1,415 @@
+LOCUS       NM_001114093            3772 bp    mRNA    linear   PRI 02-OCT-2017
+DEFINITION  Homo sapiens LSM14A, mRNA processing body assembly factor (LSM14A),
+            transcript variant 1, mRNA.
+ACCESSION   NM_001114093
+VERSION     NM_001114093.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3772)
+  AUTHORS   Wang F, Yu SY, Zuo LJ, Cao CJ, Hu Y, Chen ZJ, Piao YS, Wang YJ,
+            Wang XM, Chen SD, Chan P and Zhang W.
+  TITLE     Excessive Iron and alpha-Synuclein Oligomer in Brain are Relevant
+            to Pure Apathy in Parkinson Disease
+  JOURNAL   J Geriatr Psychiatry Neurol 29 (4), 187-194 (2016)
+   PUBMED   26940028
+  REMARK    GeneRIF: Excessive iron and alpha-synuclein oligomer in brain
+            commonly contributed to pure apathy of PD through potential
+            mechanism of oxidative stress.
+REFERENCE   2  (bases 1 to 3772)
+  AUTHORS   Mili D, Georgesse D and Kenani A.
+  TITLE     Localization and role of RAP55/LSM14 in HeLa cells: a new finding
+            on the mitotic spindle assembly
+  JOURNAL   Acta Biochim. Pol. 62 (3), 613-619 (2015)
+   PUBMED   26339800
+  REMARK    GeneRIF: RAP55/LSM14 binds directly the tubulin and that is
+            implicated in the process of the mitotic spindle stabilization
+REFERENCE   3  (bases 1 to 3772)
+  AUTHORS   Mok BW, Song W, Wang P, Tai H, Chen Y, Zheng M, Wen X, Lau SY, Wu
+            WL, Matsumoto K, Yuen KY and Chen H.
+  TITLE     The NS1 protein of influenza A virus interacts with cellular
+            processing bodies and stress granules through RNA-associated
+            protein 55 (RAP55) during virus infection
+  JOURNAL   J. Virol. 86 (23), 12695-12707 (2012)
+   PUBMED   22973032
+  REMARK    GeneRIF: The NS1 protein of influenza A virus interacts with
+            cellular processing bodies and stress granules through
+            RNA-associated protein 55 (RAP55) during virus infection.
+REFERENCE   4  (bases 1 to 3772)
+  AUTHORS   Li Y, Chen R, Zhou Q, Xu Z, Li C, Wang S, Mao A, Zhang X, He W and
+            Shu HB.
+  TITLE     LSm14A is a processing body-associated sensor of viral nucleic
+            acids that initiates cellular antiviral response in the early phase
+            of viral infection
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 109 (29), 11770-11775 (2012)
+   PUBMED   22745163
+  REMARK    GeneRIF: LSm14A is a processing body-associated sensor of viral
+            nucleic acids that initiates cellular antiviral response in the
+            early phase of viral infection.
+REFERENCE   5  (bases 1 to 3772)
+  AUTHORS   Baltz AG, Munschauer M, Schwanhausser B, Vasile A, Murakawa Y,
+            Schueler M, Youngs N, Penfold-Brown D, Drew K, Milek M, Wyler E,
+            Bonneau R, Selbach M, Dieterich C and Landthaler M.
+  TITLE     The mRNA-bound proteome and its global occupancy profile on
+            protein-coding transcripts
+  JOURNAL   Mol. Cell 46 (5), 674-690 (2012)
+   PUBMED   22681889
+REFERENCE   6  (bases 1 to 3772)
+  AUTHORS   Matsumoto K, Nakayama H, Yoshimura M, Masuda A, Dohmae N, Matsumoto
+            S and Tsujimoto M.
+  TITLE     PRMT1 is required for RAP55 to localize to processing bodies
+  JOURNAL   RNA Biol 9 (5), 610-623 (2012)
+   PUBMED   22614839
+  REMARK    GeneRIF: RAP55 is important for the assembly of cytoplasmic mRNP
+            granules and that PRMT1 is required for RAP55A to localize to
+            P-bodies.
+REFERENCE   7  (bases 1 to 3772)
+  AUTHORS   Marnef A, Sommerville J and Ladomery MR.
+  TITLE     RAP55: insights into an evolutionarily conserved protein family
+  JOURNAL   Int. J. Biochem. Cell Biol. 41 (5), 977-981 (2009)
+   PUBMED   18723115
+  REMARK    GeneRIF: this protein family has evolved a common and fundamental
+            role in the control of mRNA translation. Human RAP55A is an
+            autoantigen detected in the serum of patients with primary biliary
+            cirrhosis (PBC).
+            Review article
+REFERENCE   8  (bases 1 to 3772)
+  AUTHORS   Tanaka KJ, Ogawa K, Takagi M, Imamoto N, Matsumoto K and Tsujimoto
+            M.
+  TITLE     RAP55, a cytoplasmic mRNP component, represses translation in
+            Xenopus oocytes
+  JOURNAL   J. Biol. Chem. 281 (52), 40096-40106 (2006)
+   PUBMED   17074753
+  REMARK    Erratum:[J Biol Chem. 2014 Jul 25;289(30):20490]
+REFERENCE   9  (bases 1 to 3772)
+  AUTHORS   Yang WH, Yu JH, Gulick T, Bloch KD and Bloch DB.
+  TITLE     RNA-associated protein 55 (RAP55) localizes to mRNA processing
+            bodies and stress granules
+  JOURNAL   RNA 12 (4), 547-554 (2006)
+   PUBMED   16484376
+REFERENCE   10 (bases 1 to 3772)
+  AUTHORS   Albrecht M and Lengauer T.
+  TITLE     Novel Sm-like proteins with long C-terminal tails and associated
+            methyltransferases
+  JOURNAL   FEBS Lett. 569 (1-3), 18-26 (2004)
+   PUBMED   15225602
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BC016842.1, AB069974.1 and AC010614.8.
+            
+            Summary: Sm-like proteins were identified in a variety of organisms
+            based on sequence homology with the Sm protein family (see SNRPD2;
+            601061). Sm-like proteins contain the Sm sequence motif, which
+            consists of 2 regions separated by a linker of variable length that
+            folds as a loop. The Sm-like proteins are thought to form a stable
+            heteromer present in tri-snRNP particles, which are important for
+            pre-mRNA splicing.[supplied by OMIM, Mar 2008].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes isoform a. While isoforms a and b are of the
+            same length, their C-termini are different.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data because no single transcript was available
+            for the full length of the gene. The extent of this transcript is
+            supported by transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660809.15342.1,
+                                           SRR1803614.82079.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-121               BC016842.1         1-121
+            122-2017            AB069974.1         1-1896
+            2018-3772           AC010614.8         85406-87160
+FEATURES             Location/Qualifiers
+     source          1..3772
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.11"
+     gene            1..3772
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /note="LSM14A, mRNA processing body assembly factor"
+                     /db_xref="GeneID:26065"
+                     /db_xref="HGNC:HGNC:24489"
+                     /db_xref="MIM:610677"
+     exon            1..317
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    89..91
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /note="upstream in-frame stop codon"
+     CDS             197..1588
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /note="isoform a is encoded by transcript variant 1;
+                     family with sequence similarity 61, member A; protein
+                     LSM14 homolog A; RNA-associated protein 55; hRAP55;
+                     hRAP55A; alphaSNBP; protein SCD6 homolog; RNA-associated
+                     protein 55A; putative alpha-synuclein-binding protein;
+                     LSM14A, SCD6 homolog A"
+                     /codon_start=1
+                     /product="protein LSM14 homolog A isoform a"
+                     /protein_id="NP_001107565.1"
+                     /db_xref="CCDS:CCDS46040.1"
+                     /db_xref="GeneID:26065"
+                     /db_xref="HGNC:HGNC:24489"
+                     /db_xref="MIM:610677"
+                     /translation="MSGGTPYIGSKISLISKAEIRYEGILYTIDTENSTVALAKVRSF
+                     GTEDRPTDRPIPPRDEVFEYIIFRGSDIKDLTVCEPPKPQCSLPQDPAIVQSSLGSST
+                     SSFQSMGSYGPFGRMPTYSQFSPSSLVGQQFGAVGVAGSSLTSFGTETSNSGTLPQSS
+                     AVGSAFTQDTRSLKTQLSQGRSSPQLDPLRKSPTMEQAVQTASAHLPAPAAVGRRSPV
+                     STRPLPSASQKAGENQEHRRAEVHKVSRPENEQLRNDNKRQVAPGAPSAPRRGRGGHR
+                     GGRGRFGIRRDGPMKFEKDFDFESANAQFNKEEIDREFHNKLKLKEDKLEKQEKPVNG
+                     EDKGDSGVDTQNSEGNADEEDPLGPNCYYDKTKSFFDNISCDDNRERRPTWAEERRLN
+                     AETFGIPLRPNRGRGGYRGRGGLGFRGGRGRGGGRGGTFTAPRGFRGGFRGGRGGREF
+                     ADFEYRKTTAFGP"
+     misc_feature    200..202
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylserine. {ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22223895}; propagated from
+                     UniProtKB/Swiss-Prot (Q8ND56.3); acetylation site"
+     misc_feature    728..730
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    740..742
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    743..745
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    770..772
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q8ND56.3); phosphorylation site"
+     misc_feature    776..778
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    842..844
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:18691976,
+                     ECO:0000244|PubMed:19367720, ECO:0000244|PubMed:19369195,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    875..877
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     phosphorylation site"
+     misc_feature    1277..1327
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     Region: FFD box"
+     misc_feature    1334..1396
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8ND56.3);
+                     Region: TFG box"
+     misc_feature    1397..1399
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Asymmetric dimethylarginine.
+                     {ECO:0000250|UniProtKB:Q8K2F8}; propagated from
+                     UniProtKB/Swiss-Prot (Q8ND56.3); methylation site"
+     exon            318..481
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            482..611
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     STS             506..1073
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="ECD12271"
+                     /db_xref="UniSTS:293304"
+     exon            612..734
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            735..911
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     STS             823..1057
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="REN92021"
+                     /db_xref="UniSTS:416819"
+     exon            912..977
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            978..1160
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1161..1332
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1333..1564
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1565..1621
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1622..3772
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1973..2191
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="CSAP26E"
+                     /db_xref="UniSTS:279628"
+     STS             2009..2177
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="BMON117"
+                     /db_xref="UniSTS:251706"
+     STS             2126..2288
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="RH70420"
+                     /db_xref="UniSTS:39669"
+     STS             3292..3441
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="D19S1104"
+                     /db_xref="UniSTS:1070"
+     STS             3367..3501
+                     /gene="LSM14A"
+                     /gene_synonym="C19orf13; FAM61A; RAP55; RAP55A"
+                     /standard_name="RH44323"
+                     /db_xref="UniSTS:40640"
+ORIGIN      
+        1 gccgccgccg ccgccgccgc cgcgccgcgg cttgagggcg ggaggctggg ggagggtagc
+       61 ggagccggcg ccgccgccat gttgggtctg aagcggctgc tgtaggcgcc gacggagcga
+      121 gcgggcgtgc ggagcgggcg acagtggcgt gggatctgcc tctctgcgag cagctgggag
+      181 cggcggcggc ggcgccatga gcgggggcac cccttacatc ggcagcaaga tcagcctcat
+      241 ctccaaggcg gagatccgct acgagggcat cctctacacc atcgacaccg aaaactccac
+      301 cgtagccctt gccaaagttc gatcctttgg tacagaagac agaccgacag atcgtccaat
+      361 accacctcga gatgaagtct ttgaatacat tatattccgt gggagtgaca ttaaagacct
+      421 tactgtttgt gagccaccaa aaccacagtg ttctttgcct caagacccag ctattgttca
+      481 gtcctcacta ggctcatcga cttcttcatt ccagtccatg ggttcttatg gacctttcgg
+      541 caggatgccc acatacagtc agttcagtcc gagttcctta gttgggcagc agtttggtgc
+      601 tgttggtgtt gctggaagct ctttgacatc ctttggaaca gaaacatcaa acagtggtac
+      661 cttaccccaa agtagtgcgg ttggttctgc ctttacacag gatacaagat ctctaaaaac
+      721 acagttatct caaggtcgct caagccctca gttagaccct ttgagaaaaa gcccaaccat
+      781 ggaacaagca gtgcagaccg cctcagccca cttacctgct ccagcagctg ttgggagaag
+      841 gagtcctgta tcaaccaggc ctttgccatc tgccagccaa aaggcaggag agaatcagga
+      901 gcacaggcga gctgaagtac acaaagtttc aaggccagaa aatgagcaac tcagaaatga
+      961 taacaagaga caagtagctc caggtgctcc ttcagctcca aggagagggc gtgggggtca
+     1021 tcggggtggc aggggaagat ttggtattcg gcgagatggg ccaatgaaat ttgagaaaga
+     1081 ctttgacttt gaaagtgcaa atgcacaatt caacaaggaa gagattgaca gagagtttca
+     1141 taataaactt aaattaaaag aagataaact tgagaaacag gagaagcctg taaatggtga
+     1201 agataaagga gactcaggag ttgataccca aaacagtgaa ggaaatgccg atgaagaaga
+     1261 tccacttgga cctaattgct attatgacaa aactaaatcc ttctttgata atatttcttg
+     1321 tgatgacaat agagaacgga gaccaacctg ggctgaagaa agaagattaa atgctgaaac
+     1381 atttggaatc ccacttcgtc caaaccgtgg ccgtggggga tacagaggca gaggaggtct
+     1441 tggtttccgt ggtggcagag ggcgtggtgg tggcagaggt ggtaccttca ctgcccctcg
+     1501 aggatttcgc ggtggattca gaggaggtcg tgggggccgg gagtttgcgg attttgaata
+     1561 taggaaaacc acagcttttg gaccctaaaa ggtctggatt gatcgtactg ctttctgaaa
+     1621 gaaagacaac aaagttgctg catagtctac aaacaagtct ctgaaaatag gtgaatttct
+     1681 agctcttcat ggtcctgaac attgatttca gtctttgcaa agaatgaaga agtgaattcg
+     1741 ctgtacattt gtcaccagca ctgggttttt gttttttgtt tgtttttccg cttaatttca
+     1801 aagataaaat gcagttactt ttgggggtgg aaggctcatc ttaaaacatg agcattaaat
+     1861 atatttggaa tagcagaagg ttaagtaatt tcttatgtat agttaaacta aagcagtact
+     1921 tcagtgggac ttaacaagta ttttttcatc actgaaaggt tttttttttt tatcactaaa
+     1981 ttgtatttgg caattgcaag ttgcctgcag atagggccgt gatactgtgt tttgagccac
+     2041 agaaggttgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtatgt gtgtgtcttt
+     2101 ttcctccttt cttttgggga atcctgtaat atgaggtagc ttatttcgtc aattaattag
+     2161 ggtgctggat ggtagagaat tttgtcagtc aactatgtac acacagtaaa tactgtttct
+     2221 taggcaaagg taactttttt atatagttgt aaaattccat tatattccat tgccaaagaa
+     2281 acattaagaa ctttgtatag ctgtataaaa agcaactaat tttttaaaga ataaacattt
+     2341 taaagtcagc aaacatactg tgtccttgca gaagttgatg tgctgagcag cagccttatg
+     2401 ggtgggtctt tttttcttag ttttccaggc ttaacatttt tgattttgtt ttttaatgtt
+     2461 tggaacataa atgaagattt gatacattat ttcattatct aaaaaggatt aattattcat
+     2521 gctcattgta agaacttcat tttgtagcaa atggcatatc acaggatctg tccagataat
+     2581 cgatattttc agtatacaaa tgtaaataat cacagatgag aatgtactta gctgtatttt
+     2641 caaataagta atcttccccc cttttgtagg actttaaaac taggcatcaa tgaacctgtt
+     2701 tttcctatta tgcctggaat ttagtcatga taccttgact cattccatca tatttcaaga
+     2761 ggattcagag tgctagaaat tattttggta gcctgtaaca cacggcaaca ctggtccttg
+     2821 ggcctatgat gacccacaga tgactcagta tagagttcat tgctaattat aaattactag
+     2881 tgaatctttt tgatatttta agctctagtg ggaaaaatct ggccactttt gtgtttttat
+     2941 gaaggccatg gaataaaagg atccaaagat ttaaatattt ttatctaata ttttgattgt
+     3001 tttcttaact ttctccttaa aacattcagt agtgataaag atatagaaac tgcactgtag
+     3061 gagaattgga atatttaagg ctggttgaca ttttttattt tcattttata tcttttgtat
+     3121 agctctacaa ggcagtgttt tgtaatttgg tttcattatg aagatccagt acttggcagc
+     3181 catagtttag acaatattgt tcagtgctgt ttgcttgcat gttaacaaca aaacctttta
+     3241 gaggacccac aaatcatgat attgaacaca gttccgaggc attcagagca tcagagcaag
+     3301 taccatggca atacatgtgt agactgttgg agatgtcccg ggccaatttc aagaaagaaa
+     3361 actgtaaata ctagttctac ttgctctgaa attatgagtt tatgcgtttt cccagccctc
+     3421 cgaatcactg actggggcgt tttgtgcccc agcaataact ggcagcatgg catacctgca
+     3481 gtacccctta caatattaaa gcaaagtttt tattctaaaa cagaataaaa ctgttcaata
+     3541 aaaaatgctc gtcaaagttc tttctcttta aatagtaaca ttctgtttca gtaggaacat
+     3601 aatgaaagga atcttttaaa tggaagagcg gaattataat gtttgtattc cctgtaataa
+     3661 ctataaatca gttactttat ttctaagatt gagttattgt tgcagatgtt tagggaaagc
+     3721 taaaagcccc ttccttcccc tcctgtgtgt aaataaaata cttctgagat ca
+//
+

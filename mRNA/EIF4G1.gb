@@ -1,0 +1,816 @@
+LOCUS       NM_001194946            5559 bp    mRNA    linear   PRI 10-SEP-2017
+DEFINITION  Homo sapiens eukaryotic translation initiation factor 4 gamma 1
+            (EIF4G1), transcript variant 6, mRNA.
+ACCESSION   NM_001194946
+VERSION     NM_001194946.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5559)
+  AUTHORS   Gruner S, Peter D, Weber R, Wohlbold L, Chung MY, Weichenrieder O,
+            Valkov E, Igreja C and Izaurralde E.
+  TITLE     The Structures of eIF4E-eIF4G Complexes Reveal an Extended
+            Interface to Regulate Translation Initiation
+  JOURNAL   Mol. Cell 64 (3), 467-479 (2016)
+   PUBMED   27773676
+  REMARK    GeneRIF: The structures of eIF4E-eIF4G complexes reveal an extended
+            interface to regulate translation initiation.
+REFERENCE   2  (bases 1 to 5559)
+  AUTHORS   Imai S, Kumar P, Hellen CU, D'Souza VM and Wagner G.
+  TITLE     An accurately preorganized IRES RNA structure enables eIF4G capture
+            for initiation of viral translation
+  JOURNAL   Nat. Struct. Mol. Biol. 23 (9), 859-864 (2016)
+   PUBMED   27525590
+  REMARK    GeneRIF: the IRES of encephalomyocarditis virus (EMCV) interacts
+            with the HEAT-1 domain of eukaryotic initiation factor 4G (eIF4G).
+REFERENCE   3  (bases 1 to 5559)
+  AUTHORS   Attar-Schneider O, Drucker L and Gottfried M.
+  TITLE     Migration and epithelial-to-mesenchymal transition of lung cancer
+            can be targeted via translation initiation factors eIF4E and eIF4GI
+  JOURNAL   Lab. Invest. 96 (9), 1004-1015 (2016)
+   PUBMED   27501049
+  REMARK    GeneRIF: Data show that targeting translation initiation (TI)
+            factors eIF4E/eIF4GI reduces migration and
+            epithelial-to-mesenchymal transition (EMT), both essential for
+            metastasis, thereby underscoring the potential of TI targeting in
+            non-small cell lung cancer (NSCLC) therapy.
+REFERENCE   4  (bases 1 to 5559)
+  AUTHORS   Coldwell MJ and Morley SJ.
+  TITLE     Specific isoforms of translation initiation factor 4GI show
+            differences in translational activity
+  JOURNAL   Mol. Cell. Biol. 26 (22), 8448-8460 (2006)
+   PUBMED   16982693
+  REMARK    GeneRIF: We quantify the efficiency of eIF4GI promoter usage in
+            mammalian cells and demonstrate that even though the longest
+            isoform eIF4GIf was relatively poorly expressed when reintroduced,
+            it was more efficient at promoting the translation of cellular
+            mRNAs.
+REFERENCE   5  (bases 1 to 5559)
+  AUTHORS   Byrd MP, Zamora M and Lloyd RE.
+  TITLE     Translation of eukaryotic translation initiation factor 4GI
+            (eIF4GI) proceeds from multiple mRNAs containing a novel
+            cap-dependent internal ribosome entry site (IRES) that is active
+            during poliovirus infection
+  JOURNAL   J. Biol. Chem. 280 (19), 18610-18622 (2005)
+   PUBMED   15755734
+  REMARK    GeneRIF: intact eIF4GI protein is not required for the de novo
+            synthesis of eIF4GI, suggesting its expression can continue under
+            stress or infection conditions where eIF4GI is cleaved
+REFERENCE   6  (bases 1 to 5559)
+  AUTHORS   Byrd MP, Zamora M and Lloyd RE.
+  TITLE     Generation of multiple isoforms of eukaryotic translation
+            initiation factor 4GI by use of alternate translation initiation
+            codons
+  JOURNAL   Mol. Cell. Biol. 22 (13), 4499-4511 (2002)
+   PUBMED   12052860
+  REMARK    GeneRIF: data suggest that expression of the eIF4GI isoforms is
+            partly controlled by a complex translation strategy involving both
+            cap-dependent and cap-independent mechanisms
+REFERENCE   7  (bases 1 to 5559)
+  AUTHORS   Bradley CA, Padovan JC, Thompson TL, Benoit CA, Chait BT and Rhoads
+            RE.
+  TITLE     Mass spectrometric analysis of the N terminus of translational
+            initiation factor eIF4G-1 reveals novel isoforms
+  JOURNAL   J. Biol. Chem. 277 (15), 12559-12571 (2002)
+   PUBMED   11821405
+  REMARK    GeneRIF: mass spectrometric analysis of N terminus reveals novel
+            isoforms
+REFERENCE   8  (bases 1 to 5559)
+  AUTHORS   Mader S, Lee H, Pause A and Sonenberg N.
+  TITLE     The translation initiation factor eIF-4E binds to a common motif
+            shared by the translation factor eIF-4 gamma and the translational
+            repressors 4E-binding proteins
+  JOURNAL   Mol. Cell. Biol. 15 (9), 4990-4997 (1995)
+   PUBMED   7651417
+REFERENCE   9  (bases 1 to 5559)
+  AUTHORS   Yan R and Rhoads RE.
+  TITLE     Human protein synthesis initiation factor eIF-4 gamma is encoded by
+            a single gene (EIF4G) that maps to chromosome 3q27-qter
+  JOURNAL   Genomics 26 (2), 394-398 (1995)
+   PUBMED   7601469
+REFERENCE   10 (bases 1 to 5559)
+  AUTHORS   Yan R, Rychlik W, Etchison D and Rhoads RE.
+  TITLE     Amino acid sequence of the human protein synthesis initiation
+            factor eIF-4 gamma
+  JOURNAL   J. Biol. Chem. 267 (32), 23226-23231 (1992)
+   PUBMED   1429670
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CR980540.1, BC140892.1,
+            BC140896.1 and BQ011010.1.
+            
+            Summary: The protein encoded by this gene is a component of the
+            multi-subunit protein complex EIF4F. This complex facilitates the
+            recruitment of mRNA to the ribosome, which is a rate-limiting step
+            during the initiation phase of protein synthesis. The recognition
+            of the mRNA cap and the ATP-dependent unwinding of 5'-terminal
+            secondary structure is catalyzed by factors in this complex. The
+            subunit encoded by this gene is a large scaffolding protein that
+            contains binding sites for other members of the EIF4F complex. A
+            domain at its N-terminus can also interact with the poly(A)-binding
+            protein, which may mediate the circularization of mRNA during
+            translation. Alternative splicing results in multiple transcript
+            variants, some of which are derived from alternative promoter
+            usage. [provided by RefSeq, Aug 2010].
+            
+            Transcript Variant: This variant (6) differs in the 5' UTR,
+            includes an additional in-frame exon in the 5' coding region, and
+            uses an alternate in-frame splice site in the central coding
+            region, compared to variant 1. The resulting isoform (6) is longer
+            than isoform 1. Both variants 6 and 7 encode the same isoform.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC140892.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1966682, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-158               CR980540.1         4-161
+            159-1585            BC140892.1         1-1427
+            1586-5201           BC140896.1         1371-4986
+            5202-5559           BQ011010.1         1-358               c
+FEATURES             Location/Qualifiers
+     source          1..5559
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q27.1"
+     gene            1..5559
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /note="eukaryotic translation initiation factor 4 gamma 1"
+                     /db_xref="GeneID:1981"
+                     /db_xref="HGNC:HGNC:3296"
+                     /db_xref="MIM:600495"
+     exon            1..180
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            181..237
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    227..229
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /note="upstream in-frame stop codon"
+     exon            238..331
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             272..5092
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /note="isoform 6 is encoded by transcript variant 6;
+                     EIF4-gamma; eucaryotic translation initiation factor 4G;
+                     eIF-4-gamma 1"
+                     /codon_start=1
+                     /product="eukaryotic translation initiation factor 4 gamma
+                     1 isoform 6"
+                     /protein_id="NP_001181875.1"
+                     /db_xref="CCDS:CCDS54687.1"
+                     /db_xref="GeneID:1981"
+                     /db_xref="HGNC:HGNC:3296"
+                     /db_xref="MIM:600495"
+                     /translation="MNKAPQSTGPPPAPSPGLPQPAFPPGQTAPVVFSTPQATQMNTP
+                     SQPRQGGFRSLQHFYPSRAQPPSSAASRVQSAAPARPGPAAHVYPAGSQVMMIPSQIS
+                     YPASQGAYYIPGQGRSTYVVPTQQYPVQPGAPGFYPGASPTEFGTYAGAYYPAQGVQQ
+                     FPTGVAPAPVLMNQPPQIAPKRERKTIRIRDPNQGGKDITEEIMSGARTASTPTPPQT
+                     GGGLEPQANGETPQVAVIVRPDDRSQGAIIADRPGLPGPEHSPSESQPSSPSPTPSPS
+                     PVLEPGSEPNLAVLSIPGDTMTTIQMSVEESTPISRETGEPYRLSPEPTPLAEPILEV
+                     EVTLSKPVPESEFSSSPLQAPTPLASHTVEIHEPNGMVPSEDLEPEVESSPELAPPPA
+                     CPSESPVPIAPTAQPEELLNGAPSPPAVDLSPVSEPEEQAKEVTASMAPPTIPSATPA
+                     TAPSATSPAQEEEMEEEEEEEEGEAGEAGEAESEKGGEELLPPESTPIPANLSQNLEA
+                     AAATQVAVSVPKRRRKIKELNKKEAVGDLLDAFKEANPAVPEVENQPPAGSNPGPESE
+                     GSGVPPRPEEADETWDSKEDKIHNAENIQPGEQKYEYKSDQWKPLNLEEKKRYDREFL
+                     LGFQFIFASMQKPEGLPHISDVVLDKANKTPLRPLDPTRLQGINCGPDFTPSFANLGR
+                     TTLSTRGPPRGGPGGELPRGPAGLGPRRSQQGPRKEPRKIIATVLMTEDIKLNKAEKA
+                     WKPSSKRTAADKDRGEEDADGSKTQDLFRRVRSILNKLTPQMFQQLMKQVTQLAIDTE
+                     ERLKGVIDLIFEKAISEPNFSVAYANMCRCLMALKVPTTEKPTVTVNFRKLLLNRCQK
+                     EFEKDKDDDEVFEKKQKEMDEAATAEERGRLKEELEEARDIARRRSLGNIKFIGELFK
+                     LKMLTEAIMHDCVVKLLKNHDEESLECLCRLLTTIGKDLDFEKAKPRMDQYFNQMEKI
+                     IKEKKTSSRIRFMLQDVLDLRGSNWVPRRGDQGPKTIDQIHKEAEMEEHREHIKVQQL
+                     MAKGSDKRRGGPPGPPISRGLPLVDDGGWNTVPISKGSRPIDTSRLTKITKPGSIDSN
+                     NQLFAPGGRLSWGKGSSGGSGAKPSDAASEAARPATSTLNRFSALQQAVPTESTDNRR
+                     VVQRSSLSRERGEKAGDRGDRLERSERGGDRGDRLDRARTPATKRSFSKEVEERSRER
+                     PSQPEGLRKAASLTEDRDRGRDAVKREAALPPVSPLKAALSEEELEKKSKAIIEEYLH
+                     LNDMKEAVQCVQELASPSLLFIFVRHGVESTLERSAIAREHMGQLLHQLLCAGHLSTA
+                     QYYQGLYEILELAEDMEIDIPHVWLYLAELVTPILQEGGVPMGELFREITKPLRPLGK
+                     AASLLLEILGLLCKSMGPKKVGTLWREAGLSWKEFLPEGQDIGAFVAEQKVEYTLGEE
+                     SEAPGQRALPSEELNRQLEKLLKEGSSNQRVFDWIEANLSEQQIVSNTLVRALMTAVC
+                     YSAIIFETPLRVDVAVLKARAKLLQKYLCDEQKELQALYALQALVVTLEQPPNLLRMF
+                     FDALYDEDVVKEDAFYSWESSKDPAEQQGKGVALKSVTAFFKWLREAEEESDHN"
+     misc_feature    314..316
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q6NZJ6};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    509..511
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    620..622
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    806..892
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     Region: PABPC1-binding"
+     misc_feature    911..913
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    959..961
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    1232..1234
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    2096..2098
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:Q6NZJ6};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     acetylation site"
+     misc_feature    2111..2146
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     Region: EIF4E-binding"
+     misc_feature    2231..2233
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    2312..2317
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Cleavage, by foot-and-mouth disease virus leader
+                     protease; propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     cleavage site"
+     misc_feature    2333..2338
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Cleavage, by enterovirus/rhinovirus protease 2A;
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4); cleavage
+                     site"
+     misc_feature    2336..3547
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     Region: eIF3/EIF4A-binding"
+     misc_feature    2345..2347
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    2372..2374
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    3374..3376
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3386..3388
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    3416..3418
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000244|PubMed:24129315}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); methylation site"
+     misc_feature    3521..3523
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3566..3568
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17924679,
+                     ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3575..3577
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     acetylation site"
+     misc_feature    3725..3727
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    3731..3733
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    3845..3847
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by PKC/PRKCA.
+                     {ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163, ECO:0000269|PubMed:21576361};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3851..3853
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3872..3874
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    3917..3919
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    3923..3925
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692}; propagated from
+                     UniProtKB/Swiss-Prot (Q04637.4); phosphorylation site"
+     misc_feature    3983..3985
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:16964243,
+                     ECO:0000244|PubMed:17081983, ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    4004..4006
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     misc_feature    4640..5089
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     Region: EIF4A-binding"
+     misc_feature    5045..5089
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     Region: Necessary but not sufficient for MKNK1-binding"
+     misc_feature    5078..5080
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q04637.4);
+                     phosphorylation site"
+     exon            332..418
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            419..439
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            440..616
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            617..716
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            717..829
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            830..922
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            923..989
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            990..1811
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1812..1900
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1901..2087
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2088..2221
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2222..2380
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2381..2566
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2567..2764
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2631..3260
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /standard_name="GDB:593083"
+                     /db_xref="UniSTS:157934"
+     exon            2765..2911
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2912..3148
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3149..3253
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3254..3413
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3414..3514
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3515..3617
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3618..3720
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3721..3953
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3954..4072
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4073..4245
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4246..4371
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4372..4453
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4454..4552
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4553..4687
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4688..4769
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4770..4910
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4911..5542
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /inference="alignment:Splign:1.39.8"
+     STS             4916..5204
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /standard_name="RH79680"
+                     /db_xref="UniSTS:84472"
+     STS             4969..5526
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /standard_name="EIF4G1_3109"
+                     /db_xref="UniSTS:462180"
+     STS             5195..5424
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+                     /standard_name="RH68199"
+                     /db_xref="UniSTS:33666"
+     regulatory      5219..5224
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+     polyA_site      5239
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+     regulatory      5517..5522
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+     polyA_site      5537
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+     polyA_site      5542
+                     /gene="EIF4G1"
+                     /gene_synonym="EIF-4G1; EIF4F; EIF4G; EIF4GI; P220;
+                     PARK18"
+ORIGIN      
+        1 cggcggcgca gatcgcccgg cgcggctccg ccccctgcgc cggtcacgtg ggggcgccgg
+       61 ctgcgcctgc ggagaagcgg tggccgccga gcgggatctg tgcggggagc cggaaatggt
+      121 tgtggactac gtctgtgcgg ctgcgtgggg ctcggccgcg cggactgaag gagactgaag
+      181 gccctcggat gcccagaacc tgtaggccgc accgtggact tgttcttaat cgagggggtg
+      241 ctggggggac cctgatgtgg caccaaatga aatgaacaaa gctccacagt ccacaggccc
+      301 cccacccgcc ccatcccccg gactcccaca gccagcgttt cccccggggc agacagcgcc
+      361 ggtggtgttc agtacgccac aagcgacaca aatgaacacg ccttctcagc cccgccaggg
+      421 aggattcagg tctctgcagc acttctaccc tagccgggcc cagcccccga gcagtgcagc
+      481 ctcccgagtg cagagtgcag cccctgcccg ccctggccca gctgcccatg tctaccctgc
+      541 tggatcccaa gtaatgatga tcccttccca gatctcctac ccagcctccc agggggccta
+      601 ctacatccct ggacaggggc gttccacata cgttgtcccg acacagcagt accctgtgca
+      661 gccaggagcc ccaggcttct atccaggtgc aagccctaca gaatttggga cctacgctgg
+      721 cgcctactat ccagcccaag gggtgcagca gtttcccact ggcgtggccc ccgccccagt
+      781 tttgatgaac cagccacccc agattgctcc caagagggag cgtaagacga tccgaattcg
+      841 agatccaaac caaggaggaa aggatatcac agaggagatc atgtctgggg cccgcactgc
+      901 ctccacaccc acccctcccc agacgggagg cggtctggag cctcaagcta atggggagac
+      961 gccccaggtt gctgtcattg tccggccaga tgaccggtca cagggagcaa tcattgctga
+     1021 ccggccaggg ctgcctggcc cagagcatag cccttcagaa tcccagcctt cgtcgccttc
+     1081 tccgacccca tcaccatccc cagtcttgga accggggtct gagcctaatc tcgcagtcct
+     1141 ctctattcct ggggacacta tgacaactat acaaatgtct gtagaagaat caacccccat
+     1201 ctcccgtgaa actggggagc catatcgcct ctctccagaa cccactcctc tcgccgaacc
+     1261 catactggaa gtagaagtga cacttagcaa accggttcca gaatctgagt tttcttccag
+     1321 tcctctccag gctcccaccc ctttggcatc tcacacagtg gaaattcatg agcctaatgg
+     1381 catggtccca tctgaagatc tggaaccaga ggtggagtca agcccagagc ttgctcctcc
+     1441 cccagcttgc ccctccgaat cccctgtgcc cattgctcca actgcccaac ctgaggaact
+     1501 gctcaacgga gccccctcgc caccagctgt ggacttaagc ccagtcagtg agccagagga
+     1561 gcaggccaag gaggtgacag catcaatggc gccccccacc atcccctctg ctactccagc
+     1621 tacggctcct tcagctactt ccccagctca ggaggaggaa atggaagaag aagaagaaga
+     1681 ggaagaagga gaagcaggag aagcaggaga agctgagagt gagaaaggag gagaggaact
+     1741 gctcccccca gagagtaccc ctattccagc caacttgtct cagaatttgg aggcagcagc
+     1801 agccactcaa gtggcagtat ctgtgccaaa gaggagacgg aaaattaagg agctaaataa
+     1861 gaaggaggct gttggagacc ttctggatgc cttcaaggag gcgaacccgg cagtaccaga
+     1921 ggtggaaaat cagcctcctg caggcagcaa tccaggccca gagtctgagg gcagtggtgt
+     1981 gcccccacgt cctgaggaag cagatgagac ctgggactca aaggaagaca aaattcacaa
+     2041 tgctgagaac atccagcccg gggaacagaa gtatgaatat aagtcagatc agtggaagcc
+     2101 tctaaaccta gaggagaaaa aacgttacga ccgtgagttc ctgcttggtt ttcagttcat
+     2161 ctttgccagt atgcagaagc cagagggatt gccacatatc agtgacgtgg tgctggacaa
+     2221 ggccaataaa acaccactgc ggccactgga tcccactaga ctacaaggca taaattgtgg
+     2281 cccagacttc actccatcct ttgccaacct tggccggaca acccttagca cccgtgggcc
+     2341 cccaaggggt gggccaggtg gggagctgcc ccgtgggccg gctggcctgg gaccccggcg
+     2401 ctctcagcag ggaccccgaa aagaaccacg caagatcatt gccacagtgt taatgaccga
+     2461 agatataaaa ctgaacaaag cagagaaagc ctggaaaccc agcagcaagc ggacggcggc
+     2521 tgataaggat cgaggggaag aagatgctga tggcagcaaa acccaggacc tattccgcag
+     2581 ggtgcgctcc atcctgaata aactgacacc ccagatgttc cagcagctga tgaagcaagt
+     2641 gacgcagctg gccatcgaca ccgaggaacg cctcaaaggg gtcattgacc tcatttttga
+     2701 gaaggccatt tcagagccca acttctctgt ggcctatgcc aacatgtgcc gctgcctcat
+     2761 ggcgctgaaa gtgcccacta cggaaaagcc aacagtgact gtgaacttcc gaaagctgtt
+     2821 gttgaatcga tgtcagaagg agtttgagaa agacaaagat gatgatgagg tttttgagaa
+     2881 gaagcaaaaa gagatggatg aagctgctac ggcagaggaa cgaggacgcc tgaaggaaga
+     2941 gctggaagag gctcgggaca tagcccggcg gcgctcttta gggaatatca agtttattgg
+     3001 agagttgttc aaactgaaga tgttaacaga ggcaataatg catgactgtg tggtcaaact
+     3061 gcttaagaac catgatgaag agtcccttga gtgcctttgt cgtctgctca ccaccattgg
+     3121 caaagacctg gactttgaaa aagccaagcc ccgaatggat cagtatttca accagatgga
+     3181 aaaaatcatt aaagaaaaga agacgtcatc ccgcatccgc tttatgctgc aggacgtgct
+     3241 ggatctgcga gggagcaatt gggtgccacg ccgaggggat cagggtccca agaccattga
+     3301 ccagatccat aaggaggctg agatggaaga acatcgagag cacatcaaag tgcagcagct
+     3361 catggccaag ggcagtgaca agcgtcgggg cggtcctcca ggccctccca tcagccgtgg
+     3421 acttcccctt gtggatgatg gtggctggaa cacagttccc atcagcaaag gtagccgccc
+     3481 cattgacacc tcacgactca ccaagatcac caagcctggc tccatcgatt ctaacaacca
+     3541 gctctttgca cctggagggc gactgagctg gggcaagggc agcagcggag gctcaggagc
+     3601 caagccctca gacgcagcat cagaagctgc tcgcccagct actagtactt tgaatcgctt
+     3661 ctcagccctt caacaagcgg tacccacaga aagcacagat aatagacgtg tggtgcagag
+     3721 gagtagcttg agccgagaac gaggcgagaa agctggagac cgaggagacc gcctagagcg
+     3781 gagtgaacgg ggaggggacc gtggggaccg gcttgatcgt gcgcggacac ctgctaccaa
+     3841 gcggagcttc agcaaggaag tggaggagcg gagtagagaa cggccctccc agcctgaggg
+     3901 gctgcgcaag gcagctagcc tcacggagga tcgggaccgt gggcgggatg ccgtgaagcg
+     3961 agaagctgcc ctacccccag tgagccccct gaaggcggct ctctctgagg aggagttaga
+     4021 gaagaaatcc aaggctatca ttgaggaata tctccatctc aatgacatga aagaggcagt
+     4081 ccagtgcgtg caggagctgg cctcaccctc cttgctcttc atctttgtac ggcatggtgt
+     4141 cgagtctacg ctggagcgca gtgccattgc tcgtgagcat atggggcagc tgctgcacca
+     4201 gctgctctgt gctgggcatc tgtctactgc tcagtactac caagggttgt atgaaatctt
+     4261 ggaattggct gaggacatgg aaattgacat cccccacgtg tggctctacc tagcggaact
+     4321 ggtaacaccc attctgcagg aaggtggggt gcccatgggg gagctgttca gggagattac
+     4381 aaagcctctg agaccgttgg gcaaagctgc ttccctgttg ctggagatcc tgggcctcct
+     4441 gtgcaaaagc atgggtccta aaaaggtggg gacgctgtgg cgagaagccg ggcttagctg
+     4501 gaaggaattt ctacctgaag gccaggacat tggtgcattc gtcgctgaac agaaggtgga
+     4561 gtataccctg ggagaggagt cggaagcccc tggccagagg gcactcccct ccgaggagct
+     4621 gaacaggcag ctggagaagc tgctgaagga gggcagcagt aaccagcggg tgttcgactg
+     4681 gatagaggcc aacctgagtg agcagcagat agtatccaac acgttagttc gagccctcat
+     4741 gacggctgtc tgctattctg caattatttt tgagactccc ctccgagtgg acgttgcagt
+     4801 gctgaaagcg cgagcgaagc tgctgcagaa atacctgtgt gacgagcaga aggagctaca
+     4861 ggcgctctac gccctccagg cccttgtagt gaccttagaa cagcctccca acctgctgcg
+     4921 gatgttcttt gacgcactgt atgacgagga cgtggtgaag gaggatgcct tctacagttg
+     4981 ggagagtagc aaggaccccg ctgagcagca gggcaagggt gtggccctta aatctgtcac
+     5041 agccttcttc aagtggctcc gtgaagcaga ggaggagtct gaccacaact gagggctggt
+     5101 ggggccgggg acctggagcc ccatggacac acagatggcc cggctagccg cctggactgc
+     5161 aggggggcgg cagcagcggc ggtggcagtg ggtgcctgta gtgtgatgtg tctgaactaa
+     5221 taaagtggct gaagaggcag gatggcttgg ggctgcctgg gcccccctcc aggatgccgc
+     5281 caggtgtccc tctcctcccc ctggggcaca gagatatatt atatataaag tcttgaaatt
+     5341 tggtgtgtct tggggtgggg aggggcacca acgcctgccc ctggggtcct tttttttatt
+     5401 ttctgaaaat cactctcggg actgccgtcc tcgctgctgg gggcatatgc cccagcccct
+     5461 gtaccacccc tgctgttgcc tgggcagggg gaaggggggg cacggtgcct gtaattatta
+     5521 aacatgaatt caattaagct caaaaaaaaa aaaaaaaaa
+//
+

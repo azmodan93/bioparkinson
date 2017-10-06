@@ -1,0 +1,390 @@
+LOCUS       NM_018206               5000 bp    mRNA    linear   PRI 03-OCT-2017
+DEFINITION  Homo sapiens VPS35, retromer complex component (VPS35), mRNA.
+ACCESSION   NM_018206
+VERSION     NM_018206.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5000)
+  AUTHORS   Wang W, Ma X, Zhou L, Liu J and Zhu X.
+  TITLE     A conserved retromer sorting motif is essential for mitochondrial
+            DLP1 recycling by VPS35 in Parkinson's disease model
+  JOURNAL   Hum. Mol. Genet. 26 (4), 781-789 (2017)
+   PUBMED   28040727
+  REMARK    GeneRIF: results lend further support to the notion that VPS35-DLP1
+            interaction is key to the retromer-dependent recycling of
+            mitochondrial DLP1 complex during mitochondrial fission and provide
+            a novel therapeutic target to control excessive fission and
+            associated mitochondrial deficits.
+REFERENCE   2  (bases 1 to 5000)
+  AUTHORS   Abreu GM, Valenca DC, Campos M Junior, da Silva CP, Pereira JS,
+            Araujo Leite MA, Rosso AL, Nicaretta DH, Vasconcellos LF, da Silva
+            DJ, Della Coletta MV, Dos Santos JM, Goncalves AP, Santos-Reboucas
+            CB and Pimentel MM.
+  TITLE     Autosomal dominant Parkinson's disease: Incidence of mutations in
+            LRRK2, SNCA, VPS35 and GBA genes in Brazil
+  JOURNAL   Neurosci. Lett. 635, 67-70 (2016)
+   PUBMED   27777137
+  REMARK    GeneRIF: The absence of mutations in VPS35 genes reveals that they
+            are uncommon causes of Parkinson disease in Brazil
+REFERENCE   3  (bases 1 to 5000)
+  AUTHORS   Lucas M, Gershlick DC, Vidaurrazaga A, Rojas AL, Bonifacino JS and
+            Hierro A.
+  TITLE     Structural Mechanism for Cargo Recognition by the Retromer Complex
+  JOURNAL   Cell 167 (6), 1623-1635 (2016)
+   PUBMED   27889239
+  REMARK    GeneRIF: X-ray crystallographic analysis of a 4-component complex
+            comprising the VPS26 & VPS35 subunits of retromer, sorting nexin
+            SNX3, & recycling signal from the divalent cation transporter
+            DMT1-II; analysis identifies a binding site for canonical recycling
+            signals at the interface between VPS26 & SNX3; shows cooperative
+            interactions among the VPS subunits, SNX3 & cargo that couple
+            signal-recognition to membrane recruitment.
+REFERENCE   4  (bases 1 to 5000)
+  AUTHORS   Zhou M, Wiener H, Su W, Zhou Y, Liot C, Ahearn I, Hancock JF and
+            Philips MR.
+  TITLE     VPS35 binds farnesylated N-Ras in the cytosol to regulate N-Ras
+            trafficking
+  JOURNAL   J. Cell Biol. 214 (4), 445-458 (2016)
+   PUBMED   27502489
+  REMARK    GeneRIF: Silencing VPS35 increased N-Ras's association with
+            cytoplasmic vesicles, diminished GTP loading of Ras, and inhibited
+            mitogen-activated protein kinase signaling and growth of
+            N-Ras-dependent melanoma cells.
+REFERENCE   5  (bases 1 to 5000)
+  AUTHORS   Zhang P, Yu L, Gao J, Fu Q, Dai F, Zhao Y, Zheng L and Zhao S.
+  TITLE     Cloning and characterization of human VPS35 and mouse Vps35 and
+            mapping of VPS35 to human chromosome 16q13-q21
+  JOURNAL   Genomics 70 (2), 253-257 (2000)
+   PUBMED   11112353
+REFERENCE   6  (bases 1 to 5000)
+  AUTHORS   Haft CR, de la Luz Sierra M, Bafford R, Lesniak MA, Barr VA and
+            Taylor SI.
+  TITLE     Human orthologs of yeast vacuolar protein sorting proteins Vps26,
+            29, and 35: assembly into multimeric complexes
+  JOURNAL   Mol. Biol. Cell 11 (12), 4105-4116 (2000)
+   PUBMED   11102511
+REFERENCE   7  (bases 1 to 5000)
+  AUTHORS   Edgar AJ and Polak JM.
+  TITLE     Human homologues of yeast vacuolar protein sorting 29 and 35
+  JOURNAL   Biochem. Biophys. Res. Commun. 277 (3), 622-630 (2000)
+   PUBMED   11062004
+REFERENCE   8  (bases 1 to 5000)
+  AUTHORS   Simpson JC, Wellenreuther R, Poustka A, Pepperkok R and Wiemann S.
+  TITLE     Systematic subcellular localization of novel proteins identified by
+            large-scale cDNA sequencing
+  JOURNAL   EMBO Rep. 1 (3), 287-292 (2000)
+   PUBMED   11256614
+REFERENCE   9  (bases 1 to 5000)
+  AUTHORS   Deutschlander,A., Ross,O.A. and Wszolek,Z.K.
+  TITLE     VPS35-Related Parkinson Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   28796472
+REFERENCE   10 (bases 1 to 5000)
+  AUTHORS   Farlow,J., Pankratz,N.D., Wojcieszek,J. and Foroud,T.
+  TITLE     Parkinson Disease Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301402
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB049686.1, BC093036.1,
+            BQ574179.1, AC012186.8 and BU621624.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Apr 15, 2016 this sequence version replaced gi:156602659.
+            
+            Summary: This gene belongs to a group of vacuolar protein sorting
+            (VPS) genes. The encoded protein is a component of a large
+            multimeric complex, termed the retromer complex, involved in
+            retrograde transport of proteins from endosomes to the trans-Golgi
+            network. The close structural similarity between the yeast and
+            human proteins that make up this complex suggests a similarity in
+            function. Expression studies in yeast and mammalian cells indicate
+            that this protein interacts directly with VPS35, which serves as
+            the core of the retromer complex. [provided by RefSeq, Jul 2008].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660805.1800.1,
+                                           SRR1803613.283710.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-54                DB049686.1         1-54
+            55-2765             BC093036.1         1-2711
+            2766-3277           BQ574179.1         22-533              c
+            3278-4374           AC012186.8         135533-136629       c
+            4375-5000           BU621624.1         1-626               c
+FEATURES             Location/Qualifiers
+     source          1..5000
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16q11.2"
+     gene            1..5000
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /note="VPS35, retromer complex component"
+                     /db_xref="GeneID:55737"
+                     /db_xref="HGNC:HGNC:13487"
+                     /db_xref="MIM:601501"
+     exon            1..102
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    40..42
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /note="upstream in-frame stop codon"
+     CDS             100..2490
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /note="maternal-embryonic 3; hVPS35; vacuolar protein
+                     sorting 35 homolog"
+                     /codon_start=1
+                     /product="vacuolar protein sorting-associated protein 35"
+                     /protein_id="NP_060676.2"
+                     /db_xref="CCDS:CCDS10721.1"
+                     /db_xref="GeneID:55737"
+                     /db_xref="HGNC:HGNC:13487"
+                     /db_xref="MIM:601501"
+                     /translation="MPTTQQSPQDEQEKLLDEAIQAVKVQSFQMKRCLDKNKLMDALK
+                     HASNMLGELRTSMLSPKSYYELYMAISDELHYLEVYLTDEFAKGRKVADLYELVQYAG
+                     NIIPRLYLLITVGVVYVKSFPQSRKDILKDLVEMCRGVQHPLRGLFLRNYLLQCTRNI
+                     LPDEGEPTDEETTGDISDSMDFVLLNFAEMNKLWVRMQHQGHSRDREKRERERQELRI
+                     LVGTNLVRLSQLEGVNVERYKQIVLTGILEQVVNCRDALAQEYLMECIIQVFPDEFHL
+                     QTLNPFLRACAELHQNVNVKNIIIALIDRLALFAHREDGPGIPADIKLFDIFSQQVAT
+                     VIQSRQDMPSEDVVSLQVSLINLAMKCYPDRVDYVDKVLETTVEIFNKLNLEHIATSS
+                     AVSKELTRLLKIPVDTYNNILTVLKLKHFHPLFEYFDYESRKSMSCYVLSNVLDYNTE
+                     IVSQDQVDSIMNLVSTLIQDQPDQPVEDPDPEDFADEQSLVGRFIHLLRSEDPDQQYL
+                     ILNTARKHFGAGGNQRIRFTLPPLVFAAYQLAFRYKENSKVDDKWEKKCQKIFSFAHQ
+                     TISALIKAELAELPLRLFLQGALAAGEIGFENHETVAYEFMSQAFSLYEDEISDSKAQ
+                     LAAITLIIGTFERMKCFSEENHEPLRTQCALAASKLLKKPDQGRAVSTCAHLFWSGRN
+                     TDKNGEELHGGKRVMECLKKALKIANQCMDPSLQVQLFIEILNRYIYFYEKENDAVTI
+                     QVLNQLIQKIREDLPNLESSEETEQINKHFHNTLEHLRLRRESPESEGPIYEGLIL"
+     misc_feature    118..120
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     phosphorylation site"
+     misc_feature    172..231
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     Region: Interaction with SNX3.
+                     {ECO:0000269|PubMed:24344282}"
+     misc_feature    712..744
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     Region: Interaction with SNX3.
+                     {ECO:0000269|PubMed:24344282}"
+     misc_feature    1411..2487
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     Region: Interaction with SLC11A2.
+                     {ECO:0000269|PubMed:24344282}"
+     misc_feature    1597..2178
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     Region: Interaction with IGF2R cytoplasmic domain.
+                     {ECO:0000269|PubMed:15078903}"
+     misc_feature    2446..2448
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q9EQH3};
+                     propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     phosphorylation site"
+     misc_feature    2470..2472
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine. {ECO:0000250|UniProtKB:Q9EQH3};
+                     propagated from UniProtKB/Swiss-Prot (Q96QK1.2);
+                     phosphorylation site"
+     exon            103..201
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            202..298
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            299..422
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            423..605
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            606..819
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            820..903
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            904..1013
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1014..1110
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1111..1259
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1260..1467
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1468..1623
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1624..1746
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1747..1926
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1927..2166
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            2167..2310
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+     exon            2311..4983
+                     /gene="VPS35"
+                     /gene_synonym="MEM3; PARK17"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 gctagagagg gcggggcttg gaggggccgc agcgtcacat gaccgcggga ggctacgcgc
+       61 ggggcgggtg ctgcttgctg caggctctgg ggagtcgcca tgcctacaac acagcagtcc
+      121 cctcaggatg agcaggaaaa gctcttggat gaagccatac aggctgtgaa ggtccagtca
+      181 ttccaaatga agagatgcct ggacaaaaac aagcttatgg atgctctaaa acatgcttct
+      241 aatatgcttg gtgaactccg gacttctatg ttatcaccaa agagttacta tgaactttat
+      301 atggccattt ctgatgaact gcactacttg gaggtctacc tgacagatga gtttgctaaa
+      361 ggaaggaaag tggcagatct ctacgaactt gtacagtatg ctggaaacat tatcccaagg
+      421 ctttaccttt tgatcacagt tggagttgta tatgtcaagt catttcctca gtccaggaag
+      481 gatattttga aagatttggt agaaatgtgc cgtggtgtgc aacatccctt gaggggtctg
+      541 tttcttcgaa attaccttct tcagtgtacc agaaatatct tacctgatga aggagagcca
+      601 acagatgaag aaacaactgg tgacatcagt gattccatgg attttgtact gctcaacttt
+      661 gcagaaatga acaagctctg ggtgcgaatg cagcatcagg gacatagccg agatagagaa
+      721 aaaagagaac gagaaagaca agaactgaga attttagtgg gaacaaattt ggtgcgcctc
+      781 agtcagttgg aaggtgtaaa tgtggaacgt tacaaacaga ttgttttgac tggcatattg
+      841 gagcaagttg taaactgtag ggatgctttg gctcaagaat atctcatgga gtgtattatt
+      901 caggttttcc ctgatgaatt tcacctccag actttgaatc cttttcttcg ggcctgtgct
+      961 gagttacacc agaatgtaaa tgtgaagaac ataatcattg ctttaattga tagattagct
+     1021 ttatttgctc accgtgaaga tggacctgga atcccagcgg atattaaact ttttgatata
+     1081 ttttcacagc aggtggctac agtgatacag tctagacaag acatgccttc agaggatgtt
+     1141 gtatctttac aagtctctct gattaatctt gccatgaaat gttaccctga tcgtgtggac
+     1201 tatgttgata aagttctaga aacaacagtg gagatattca ataagctcaa ccttgaacat
+     1261 attgctacca gtagtgcagt ttcaaaggaa ctcaccagac ttttgaaaat accagttgac
+     1321 acttacaaca atattttaac agtcttgaaa ttaaaacatt ttcacccact ctttgagtac
+     1381 tttgactacg agtccagaaa gagcatgagt tgttatgtgc ttagtaatgt tctggattat
+     1441 aacacagaaa ttgtctctca agaccaggtg gattccataa tgaatttggt atccacgttg
+     1501 attcaagatc agccagatca acctgtagaa gaccctgatc cagaagattt tgctgatgag
+     1561 cagagccttg tgggccgctt cattcatctg ctgcgctctg aggaccctga ccagcagtac
+     1621 ttgattttga acacagcacg aaaacatttt ggagctggtg gaaatcagcg gattcgcttc
+     1681 acactgccac ctttggtatt tgcagcttac cagctggctt ttcgatataa agagaattct
+     1741 aaagtggatg acaaatggga aaagaaatgc cagaagattt tttcatttgc ccaccagact
+     1801 atcagtgctt tgatcaaagc agagctggca gaattgccct taagactttt tcttcaagga
+     1861 gcactagctg ctggggaaat tggttttgaa aatcatgaga cagtcgcata tgaattcatg
+     1921 tcccaggcat tttctctgta tgaagatgaa atcagcgatt ccaaagcaca gctagctgcc
+     1981 atcaccttga tcattggcac ttttgaaagg atgaagtgct tcagtgaaga gaatcatgaa
+     2041 cctctgagga ctcagtgtgc ccttgctgca tccaaacttc taaagaaacc tgatcagggc
+     2101 cgagctgtga gcacctgtgc acatctcttc tggtctggca gaaacacgga caaaaatggg
+     2161 gaggagcttc acggaggcaa gagggtaatg gagtgcctaa aaaaagctct aaaaatagca
+     2221 aatcagtgca tggacccctc tctacaagtg cagcttttta tagaaattct gaacagatat
+     2281 atctattttt atgaaaagga aaatgatgcg gtaacaattc aggttttaaa ccagcttatc
+     2341 caaaagattc gagaagacct cccgaatctt gaatccagtg aagaaacaga gcagattaac
+     2401 aaacattttc ataacacact ggagcatttg cgcttgcggc gggaatcacc agaatccgag
+     2461 gggccaattt atgaaggtct catcctttaa aaaggaaata gctcaccata ctcctttcca
+     2521 tgtacatcca gtgagggttt tattacgcta ggtttccctt ccatagattg tgcctttcag
+     2581 aaatgctgag gtaggtttcc catttcttac ctgtgatgtg ttttacccag cacctccgga
+     2641 cactcacctt caggacctta ataaaattat tcacttggta agtgttcaag tctttctgat
+     2701 caccccaagt agcatgactg atctgcaatt taaaattcct gtgatctgta aaaaaaaaaa
+     2761 aaaaaaaaaa aacaaaaccc acaagcactt atcttggcta ctaatgaagc tctccttttt
+     2821 tttgtttgtt tgtttgcttc attgttgatt gtgtattttc ttcattcctg gggagtacta
+     2881 acccaaaagc gtctgtctct tgttttctag tccagtttga gattaattta gaagaaagga
+     2941 atactgtatg tgaaattcat cttgggcttt cccctaaatt gcaagataag gccatgtgta
+     3001 agattttccc taaaactaga atatattaat gcatgtttga gaattttaaa gcaccatggt
+     3061 caaaaccaga agctatattt tgcatatttg gactcagcca tccattaaga acccatgttg
+     3121 tcctctggac atatttatca atataattgg gttttaaata gtataaaaga aaacttgtga
+     3181 tctatataat ttatgtatca ccttcattgt aaatttagca ggaaatgcat cacaattatg
+     3241 attttttttt ttgcaccagt gaaacaataa agatgctatt aacaattttg gagctttttt
+     3301 tcccctttca tactatcttt aattgataaa aagtactagt agtatggcta tagagtttaa
+     3361 tagtcattct catatattca cagagctcac ttaactctag ttttaagcac ttgttgaaca
+     3421 aggcagcatc tactctttta gtcatttata ccccttttct ttcctcaact ttaccctgct
+     3481 tttcccaagg catgatgaat tcacataaac cccccaaagg ctcaccaccg atactagtta
+     3541 cctactatat aataaaccat cccaaaactt actgtcttaa aacagcaaac atttatctca
+     3601 caggtctctg gatcaggaat ttgggagcag cttagctggt ggttctggca aagagtgtgg
+     3661 tgtaaggttg caaacaagat actggttggg gctgcagtca tctgatgctt tgactggggc
+     3721 tgacttttct gctcactgac ctggctgtta ggcagaggcc ccagttcctc ttcttgaggg
+     3781 cagaggcccc agttcctctc cttgagggca gaggcctaag ttcctttcct tgagggcaga
+     3841 ggccccagtt cctctccttg acggcccttc catagagtgt cctcacagca tggtggctgg
+     3901 ctttcccctg agtatgaaag caagaaggaa accacagtgc ctttcagtgg cctccctgtg
+     3961 gaagtgacat gctcattttt gccttattct gtaagtgggg agtcactaag tctagcctat
+     4021 attcaagggt aaggagaatt aagctccacc tcttaaaggg aaaatttata gacattttca
+     4081 aatgactaca tcacttaacc cctcaccatc tgccctccca ttgctagcac ttgatgacta
+     4141 gcccttgctg ggctttacat gaacagatgt ttcccaaagt tataaaatta gtaccactaa
+     4201 aatgtatcaa atgttaagcc attctgtggt atgtcatagt ccagcaaacc ctttctgttc
+     4261 tttgtaggtg ttagtttacc ccgtataaac ctgattatgg cttgacatgt ccatattatt
+     4321 tacatgtttt gtgaaataca actggaatag tagaaaagac atgagtcaag aacacttgag
+     4381 ttggagagct tggtttgcaa gtaaggtaat gtcagtacag tgtgtaaatt atctcttatt
+     4441 ttctgggttg aggtaaaccc aattttaaaa ataataaacc aacaaaagta aataaaagtg
+     4501 aaacaaaagc actgctagta tccttaactt acagattttt tttgttgaac aaaaactggg
+     4561 taccagatat agttaggcac tgaatctaaa ggtgaagaag atcatagcct ctagcttcaa
+     4621 gaacgttagt ctgctgtgaa gacagacctg tagttacaga agatggtaag ggtttgtgca
+     4681 ggagagcagt gaagaagagc tttgagggat tggggatggg gaagttctgc agagggttgt
+     4741 atgaattctc atggaacatc aagtccaata gtttatttag ccttctgagg ccagtgcttt
+     4801 ggcctgcagt cccaggctcc tcagacccat gggctgaagc aagttatact cttggctgcc
+     4861 tgtagtgaaa tagatattta gaaattgact tagcatttaa aaccctttat agcaatttga
+     4921 cagagtaatt ttatgtctat tggatgtaat aaatatttgg ctttgtgctt tgtgtgtctg
+     4981 ctaaaaaaaa aaaaaaaaaa
+//
+
