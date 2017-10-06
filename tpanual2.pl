@@ -17,12 +17,22 @@ use Data::Dump;
 				  EIF4G1 gene (600495) -> 3q27
 =cut
 
-my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( -db_name => 'mydb',
-  -db_data => 'orfs.fasta',
-  -create => 1
-);
+#For creating a DB with a sequence file
+# my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( -db_name => 'mydb',
+#   -db_data => 'orfs.fasta',
+#   -create => 1
+# );
 
-$fac->make_db;
+# $fac->make_db;
+
+my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( -db_name => 'swissprot',
+  -db_dir => 'Blastdb');
+
+#To run with a remote DB
+# my $fac = Bio::Tools::Run::StandAloneBlastPlus->new(
+#  -db_name => 'swissprot',
+#  -remote  => 1
+# );
 
 my $result = $fac->blastp( -query => 'orfs.fasta', 
-			               -outfile => 'blas.out');
+			               -outfile => 'blast.out');
