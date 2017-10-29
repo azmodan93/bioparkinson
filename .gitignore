@@ -1,3 +1,5 @@
 *.fasta
-Blastdb/
+*/Blastdb/
 *.out
+*/Output
+!*/Output/.gitkeep
