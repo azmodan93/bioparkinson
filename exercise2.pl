@@ -1,38 +1,31 @@
 #!/bin/perl -w
 use strict;
-use Bio::Seq; 
-use Bio::SeqIO;
 use Bio::Tools::Run::StandAloneBlastPlus;
-use Data::Dump;
 
 =begin comment
  Selected Desease: Parkinson
  URL: https://www.omim.org/entry/168600?search=parkinson&highlight=parkinson
- Selected Genes:  alpha-synuclein gene (SNCA; 163890) ->  4q22
-				  UCHL1 gene -> 4p13
-				  LRRK2 gene (609007) -> 12q12
-				  GIGYF2 gene (612003) -> 2q37
-				  HTRA2 gene (606441) -> 2p13
-				  VPS35 gene (601501) -> 16q11
-				  EIF4G1 gene (600495) -> 3q27
+ Selected Gene:    GIGYF2 gene (612003) -> 2q37
 =cut
 
-#For creating a DB with a sequence file
-# my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( -db_name => 'mydb',
-#   -db_data => 'orfs.fasta',
-#   -create => 1
-# );
+my $inputPath = "Exercise1/Output/orfs.fasta";
+my $outputPath = "Exercise2/Output/blastLocal.out"; 
 
-# $fac->make_db;
-
-my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( -db_name => 'swissprot',
-  -db_dir => 'Blastdb');
-
+#To run with local DB
+=begin
+my $fac = Bio::Tools::Run::StandAloneBlastPlus->new( 
+	-db_name => 'swissprot',
+  	-db_dir => 'Blastdb');
+=cut
+=begin remoteDB 
 #To run with a remote DB
-# my $fac = Bio::Tools::Run::StandAloneBlastPlus->new(
-#  -db_name => 'swissprot',
-#  -remote  => 1
-# );
+my $fac = Bio::Tools::Run::StandAloneBlastPlus->new(
+  -db_name => 'swissprot',
+  -remote  => 1);
+=cut
+my $factory = Bio::Tools::Run::StandAloneBlastPlus->new(
+  -db_name => 'swissprot',
+  -remote  => 1);
 
-my $result = $fac->blastp( -query => 'orfs.fasta', 
-			               -outfile => 'blast.out');
+my $result = $factory->blastp( -query => $inputPath, 
+			               -outfile => $outputPath);

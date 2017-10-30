@@ -21,6 +21,6 @@ Prerrequisitos:		Tener instalado Perl
 					Tener instalado el paquete Bio::Factory::Emboss - 
 					Puede hacerse mediante el gestor de paquetes Cpan con el comando force install Bio::Factory::Emboss
 Para ejecutar el script se debe correr el comando perl exercise1.pl
-Para resolver este problema, se utilizó la herramienta Emboss que lo que realiza es traducir un gen que recibe como input, con todas sus posibles orfs
+Para resolver este problema, se utilizó la herramienta getorf del módulo Emboss que lo que realiza es traducir un gen que recibe como input, con todas sus posibles orfs
 tomando como tamaño mínimo el indicado por parámetro. Dicho resultado lo almacena en el archivo que recible por parámetro.
 =cut
