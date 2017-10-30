@@ -1,4 +1,3 @@
-*.fasta
 */*/Blastdb/
 *.out
 */Output/*
