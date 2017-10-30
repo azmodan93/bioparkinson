@@ -31,6 +31,7 @@ my $result = $factory->blastp(
 =begin HowToRun + Explanation
 Prerrequisitos:		Tener instalado Perl
 					Tener instalado el paquete Bio::Tools::Run::StandAloneBlastPlus
+					Para utilizar la base de datos local, se debe instalar la db swissprot en la carpeta Blastdb ubicada en el directorio Exercise2/Input/
 Para ejecutar el script se debe correr el comando perl exercise2.pl y previamente debe haber ejecutado el comando perl exercise1.pl, ya que la entrada de este script es
 la salida del script mencionado.
 Para resolver este problema, se utilizó la herramienta Blast+ para poder comparar con una base de datos descargada anteriormente de proteínas (swissprot), cuales secuencias
