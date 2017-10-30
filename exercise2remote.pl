@@ -1,31 +1,27 @@
 #!/bin/perl -w
 use strict;
-use Bio::Seq; 
-use Bio::SeqIO;
 use Bio::Tools::Run::RemoteBlast;
 
 =begin comment
  Selected Desease: Parkinson
  URL: https://www.omim.org/entry/168600?search=parkinson&highlight=parkinson
- Selected Genes:  alpha-synuclein gene (SNCA; 163890) ->  4q22
-				  UCHL1 gene -> 4p13
-				  LRRK2 gene (609007) -> 12q12
-				  GIGYF2 gene (612003) -> 2q37
-				  HTRA2 gene (606441) -> 2p13
-				  VPS35 gene (601501) -> 16q11
-				  EIF4G1 gene (600495) -> 3q27
+ Selected Gene:    GIGYF2 gene (612003) -> 2q37
 =cut
-my $input = 'orfs.fasta';
-my $output = 'blastRemote.out';
 
-my @params = ( -prog => 'blastp',
-     -data => 'swissprot',
-     -expect => '1e-10',
-     -readmethod => 'SearchIO' );
+my $inputPath = "Exercise1/Output/orfs.fasta";
+my $outputPath = "Exercise2/Output/";
+
+my @params = ( 
+    -prog => 'blastp',
+    -data => 'swissprot',
+    -expect => '1e-10',
+    -readmethod => 'SearchIO');
 
 my $factory = Bio::Tools::Run::RemoteBlast->new(@params);
 
-my $r = $factory->submit_blast($input);
+$factory->set_url_base('https://blast.ncbi.nlm.nih.gov/Blast.cgi');
+
+my $r = $factory->submit_blast($inputPath);
 
 print STDERR "Esperando...";
 while ( my @rids = $factory->each_rid ) {
@@ -39,9 +35,19 @@ while ( my @rids = $factory->each_rid ) {
       sleep 5;
     } else {
       my $result = $rc->next_result();
-      my $filename = $result->query_name()."\.out";
+      my $filename = $outputPath.$result->query_name()."remoteBlast.out";
       $factory->save_output($filename);
       $factory->remove_rid($rid);
     }
   }
 }
+
+=begin HowToRun + Explanation
+Prerrequisitos:   Tener instalado Perl
+                  Tener instalado el paquete Bio::Tools::Run::RemoteBlast
+Para ejecutar el script se debe correr el comando perl exercise2.pl y previamente debe haber ejecutado el comando perl exercise1.pl, ya que la entrada de este script es
+la salida del script mencionado.
+Este script resuelve el mismo problema que el script excercise2,pl, pero de forma remota completamente. Utiliza la api que provee NCBI para poder enviarle un 
+archivo fasta para poder comparar con las bases de datos remota y luego se obtienen los informes de dicho análisis.
+Genera un Informe por separado por cada uno de las secuencias que se encuentran en el archivo que se recibe como parámentro de entrada.
+=cut
