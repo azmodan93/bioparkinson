@@ -38,3 +38,15 @@ de proteínas que recibe como archivo de entrada, tiene similitudes, y qué porc
 En esta resolución, se encuentra comentado el código que puede ser utilizado para realizar dicha comparación, sin descargar previamente la base de datos de la página del 
 NBCI. A su vez, se encuentra la resolución del mismo ejercicio de forma remota en el archivo exercise2remote.pl.
 =cut
+
+=begin Result Explanation
+En el informe que arroja dicho script podemos encontrar las secuencias con mayores similitudes con las secuencias recibidas como parámetro
+de entrada. En dicho archivo encontraremos las seis secuencias que arrojó el script correspondiente al exercise1.pl comparadas con las secuencias
+encontradas en la base de datos de swissprot con mayor porcentaje de similitud. 
+Para realizar dicha explicación, tomaré la secuencia N° 2 que tiene mayor longitud y mayor cantidad de secuencias alineadas.
+Query= NM_001103146_2 [198 - 4094] Homo sapiens GRB10 interacting GYF
+protein 2 (GIGYF2), transcript variant 3, mRNA.
+Podemos encontrar 93 secuencias con alineamientos significativos. El e-value es el N° de chance de alineamiento. Mientras más pequeño es dicho
+número, mejor es la similitud. El primer resultado siempre será la misma secuencia, por lo que dicho valor va a ser cero y las siguientes con
+valores muy pequeños corresponden a proteínas de la misma familia de la secuencia analizada.
+=cut
