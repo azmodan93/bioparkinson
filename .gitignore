@@ -2,3 +2,5 @@
 *.out
 */Output/*
 !*/Output/.gitkeep
+Exercise5/Prosite/*
+!Exercise5/Prosite/.gitkeep
